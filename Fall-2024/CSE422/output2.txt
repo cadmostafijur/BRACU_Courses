@@ -1,0 +1,4 @@
+Parent 1: 000111110
+Parent 2: 010001100
+Offspring 1:  000001100
+Offspring 2:  010111110
