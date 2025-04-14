@@ -122,4 +122,25 @@ INT 21H
 
 MAIN ENDP
 END MAIN
+
+
+.MODEL SMALL
+.STACK 100H
+.DATA 
+.CODE
+MAIN PROC
+
+  mov cx,10
+  mov dl ,'9'
+  
+reverse:
+mov ah, 2
+int 21h
+dec dl
+loop reverse
+mov ah , 4ch
+int 21h  
+
+MAIN ENDP
+END MAIN
       
