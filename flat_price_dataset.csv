@@ -1,0 +1,1201 @@
+Location,Size_sqft,Num_Bedrooms,Num_Bathrooms,Has_Balcony,Floor_Number,Building_Age_Years,Parking_Available,Nearby_Schools,Distance_to_CityCenter_km,Security_Level,Price_Category
+Countryside,1730.0,4.0,3.0,No,3.0,24.0,No,Few,19.2,Low,High
+City Center,2092.0,1.0,2.0,No,16.0,36.0,No,Many,2.6,Low,High
+Countryside,,3.0,1.0,Yes,8.0,47.0,No,Many,,Medium,Medium
+,1945.0,3.0,2.0,Yes,18.0,42.0,Yes,Few,28.8,Low,High
+City Center,1505.0,4.0,3.0,No,4.0,37.0,No,Many,2.8,Low,High
+City Center,2154.0,1.0,3.0,Yes,5.0,40.0,Yes,Many,16.2,High,High
+Countryside,866.0,2.0,,No,2.0,44.0,Yes,Few,9.4,High,High
+Suburbs,,3.0,2.0,No,,23.0,No,Few,12.1,High,Medium
+Countryside,2234.0,4.0,2.0,Yes,19.0,,Yes,,5.8,,High
+Countryside,1632.0,1.0,1.0,,,,No,Many,17.6,,High
+Countryside,501.0,,3.0,Yes,10.0,,No,Few,28.8,Low,High
+Countryside,416.0,2.0,,No,12.0,16.0,Yes,Many,15.3,High,Low
+City Center,1236.0,3.0,3.0,Yes,9.0,23.0,No,Many,2.9,High,Medium
+Countryside,874.0,4.0,3.0,No,2.0,36.0,No,Many,18.8,,Low
+Suburbs,836.0,4.0,1.0,,8.0,1.0,No,Many,10.5,Low,Low
+City Center,1925.0,4.0,1.0,Yes,11.0,31.0,No,Many,25.7,Medium,Medium
+Suburbs,,2.0,,No,13.0,23.0,Yes,Few,13.3,Low,Low
+Suburbs,,,1.0,,0.0,8.0,No,Few,6.2,Medium,Low
+,774.0,2.0,3.0,Yes,17.0,3.0,No,Many,6.1,High,Low
+Suburbs,717.0,2.0,1.0,No,,16.0,No,Many,23.2,Medium,Medium
+City Center,1238.0,2.0,1.0,Yes,8.0,16.0,Yes,Few,8.3,Medium,High
+City Center,1254.0,3.0,1.0,No,8.0,49.0,,Few,23.1,High,Medium
+,1175.0,3.0,1.0,Yes,9.0,47.0,Yes,Many,6.6,,Medium
+,1062.0,4.0,3.0,,18.0,29.0,No,Many,10.0,Low,Medium
+,1502.0,,1.0,No,14.0,39.0,No,Few,14.2,High,Low
+City Center,1505.0,3.0,3.0,No,,10.0,No,Few,28.3,Medium,High
+City Center,963.0,1.0,2.0,,14.0,,Yes,Many,28.0,Medium,Medium
+Countryside,324.0,3.0,3.0,Yes,19.0,20.0,Yes,Few,6.6,Medium,Medium
+Countryside,2290.0,2.0,3.0,Yes,1.0,17.0,,Few,11.1,Low,High
+Countryside,1503.0,3.0,,Yes,12.0,28.0,Yes,Many,4.9,Medium,High
+Suburbs,1009.0,2.0,2.0,No,15.0,23.0,Yes,Many,15.5,Low,High
+Countryside,2179.0,4.0,2.0,No,14.0,9.0,Yes,Many,14.1,Medium,Low
+Suburbs,1484.0,1.0,2.0,Yes,9.0,44.0,,Few,27.1,High,High
+Suburbs,584.0,4.0,2.0,Yes,,16.0,Yes,Many,27.9,High,Low
+Countryside,362.0,2.0,3.0,Yes,9.0,17.0,No,Few,11.8,Low,Medium
+Suburbs,1302.0,2.0,2.0,No,13.0,41.0,Yes,Many,15.0,Low,Low
+Countryside,,2.0,,Yes,8.0,47.0,Yes,Many,26.9,High,High
+Countryside,1792.0,1.0,3.0,Yes,13.0,19.0,Yes,Few,24.3,High,Low
+,1266.0,3.0,3.0,No,2.0,36.0,No,Few,0.6,Medium,High
+Countryside,1148.0,4.0,2.0,No,19.0,,Yes,Many,9.9,High,Low
+,1407.0,4.0,1.0,Yes,15.0,17.0,,Many,12.9,Low,Medium
+Countryside,988.0,3.0,1.0,No,1.0,16.0,No,Few,,High,Low
+Countryside,447.0,4.0,2.0,Yes,9.0,8.0,No,Many,6.4,Low,Medium
+City Center,641.0,1.0,,No,2.0,13.0,No,Few,1.6,Low,High
+City Center,1386.0,4.0,1.0,Yes,10.0,48.0,No,Few,19.5,Medium,Medium
+Countryside,2024.0,2.0,3.0,Yes,10.0,28.0,Yes,Many,8.2,Medium,High
+,1683.0,3.0,3.0,Yes,12.0,30.0,No,Few,2.0,Medium,High
+City Center,626.0,1.0,2.0,Yes,6.0,3.0,Yes,Few,,Medium,Medium
+,2092.0,3.0,2.0,No,16.0,17.0,Yes,Few,24.2,High,Medium
+Suburbs,2059.0,1.0,1.0,No,1.0,19.0,No,,25.6,Medium,Low
+Suburbs,1289.0,2.0,3.0,No,11.0,46.0,,Few,14.8,High,Low
+City Center,1251.0,3.0,2.0,No,9.0,42.0,No,Many,12.8,Medium,Medium
+Suburbs,1022.0,4.0,2.0,Yes,17.0,43.0,Yes,Many,,Medium,Medium
+City Center,2379.0,,2.0,Yes,,,No,Many,6.4,Low,Medium
+Suburbs,728.0,3.0,2.0,No,,12.0,No,Few,6.9,High,Medium
+Countryside,1800.0,4.0,2.0,No,16.0,14.0,No,Few,,Low,High
+Countryside,585.0,3.0,2.0,No,18.0,26.0,No,Many,5.6,Medium,Medium
+City Center,2365.0,3.0,,No,17.0,14.0,No,Many,11.7,High,Medium
+Countryside,1068.0,3.0,3.0,,2.0,27.0,No,Few,27.4,Medium,Medium
+Countryside,1694.0,1.0,3.0,Yes,15.0,36.0,Yes,Many,18.7,Low,Medium
+Suburbs,493.0,4.0,2.0,Yes,5.0,18.0,,Many,12.7,High,High
+,1287.0,2.0,,Yes,11.0,25.0,Yes,Few,28.1,Low,Low
+Suburbs,,1.0,,No,10.0,25.0,No,Many,1.9,Medium,Low
+Suburbs,2461.0,1.0,3.0,,14.0,24.0,Yes,Few,6.7,Medium,Low
+Suburbs,2001.0,1.0,2.0,No,14.0,25.0,No,Few,17.2,Medium,Low
+Suburbs,1246.0,2.0,2.0,No,15.0,25.0,Yes,Many,18.7,High,Low
+Suburbs,1130.0,4.0,3.0,Yes,9.0,45.0,Yes,Few,,Low,High
+Suburbs,2220.0,4.0,3.0,Yes,11.0,,No,Few,12.4,Low,Low
+Suburbs,354.0,4.0,2.0,No,12.0,48.0,Yes,Few,19.7,Medium,High
+City Center,,3.0,1.0,Yes,3.0,17.0,Yes,Many,21.1,Low,High
+Countryside,1077.0,3.0,3.0,Yes,6.0,31.0,Yes,Many,19.3,High,Low
+Suburbs,1781.0,3.0,1.0,No,1.0,,No,Many,10.0,Medium,Low
+Suburbs,2201.0,2.0,3.0,,14.0,1.0,Yes,Few,3.3,Medium,Low
+,2434.0,3.0,1.0,No,7.0,,No,,13.1,Medium,Medium
+Suburbs,354.0,2.0,1.0,,6.0,41.0,Yes,Many,4.3,High,High
+,2123.0,4.0,1.0,,14.0,18.0,Yes,Many,28.5,Medium,Low
+Suburbs,1501.0,3.0,2.0,No,13.0,16.0,Yes,Few,14.5,Medium,Medium
+,1132.0,3.0,1.0,Yes,7.0,43.0,Yes,Many,9.9,Medium,High
+Countryside,612.0,1.0,1.0,Yes,11.0,,,Many,23.1,Medium,Medium
+Suburbs,2158.0,,,No,12.0,,Yes,Many,15.2,Low,Medium
+Countryside,2307.0,4.0,3.0,Yes,10.0,,No,Many,9.6,,Low
+City Center,2306.0,1.0,1.0,No,16.0,,No,Many,24.5,High,High
+Suburbs,,,3.0,No,16.0,42.0,Yes,Few,26.1,Medium,Medium
+City Center,627.0,4.0,,No,3.0,48.0,Yes,Many,20.4,Medium,High
+City Center,1587.0,,,No,,25.0,,Many,1.9,Low,Low
+Suburbs,2443.0,2.0,2.0,Yes,4.0,34.0,No,Few,17.2,,High
+Countryside,,2.0,3.0,No,15.0,7.0,Yes,Few,23.0,Low,Medium
+City Center,1611.0,3.0,1.0,Yes,3.0,35.0,Yes,Few,4.5,High,Medium
+Suburbs,751.0,1.0,3.0,No,14.0,6.0,Yes,Few,7.2,Low,High
+City Center,1823.0,3.0,,No,11.0,45.0,Yes,Many,26.5,Medium,Medium
+,464.0,1.0,,No,4.0,,Yes,Many,,High,Medium
+City Center,481.0,2.0,2.0,Yes,15.0,,No,Many,22.7,Medium,Medium
+City Center,1209.0,2.0,2.0,No,13.0,15.0,Yes,Many,14.5,Low,Low
+Countryside,1122.0,,2.0,No,9.0,23.0,Yes,Few,13.7,High,Low
+City Center,1243.0,1.0,,No,6.0,0.0,No,Few,0.7,High,Medium
+City Center,2301.0,,2.0,Yes,12.0,48.0,Yes,Many,24.7,,High
+City Center,2354.0,1.0,2.0,Yes,19.0,24.0,Yes,Many,,,Low
+,629.0,,2.0,Yes,4.0,9.0,No,Many,16.5,High,High
+City Center,1074.0,1.0,,No,2.0,15.0,Yes,,20.5,High,Medium
+City Center,2498.0,,3.0,Yes,14.0,15.0,No,Few,21.2,Low,Medium
+Countryside,446.0,1.0,2.0,No,3.0,7.0,Yes,Many,28.7,,High
+Countryside,1214.0,3.0,2.0,Yes,14.0,,Yes,Few,16.2,High,Low
+Countryside,1871.0,2.0,3.0,Yes,13.0,38.0,Yes,Few,12.3,Low,High
+City Center,,3.0,1.0,No,19.0,27.0,No,Few,28.6,Medium,High
+Countryside,381.0,2.0,3.0,Yes,18.0,,No,Few,19.4,High,Medium
+Countryside,813.0,2.0,3.0,No,12.0,15.0,No,Many,9.3,High,Low
+City Center,,3.0,2.0,No,9.0,19.0,No,Many,4.2,Low,High
+Countryside,2239.0,1.0,3.0,Yes,4.0,15.0,Yes,Many,25.4,,Low
+City Center,,1.0,,No,19.0,6.0,No,Many,11.2,High,Medium
+Suburbs,1709.0,4.0,2.0,No,19.0,40.0,No,Few,20.0,Medium,Low
+Countryside,1006.0,1.0,2.0,Yes,5.0,13.0,No,,14.4,Medium,Medium
+Suburbs,770.0,4.0,2.0,Yes,3.0,42.0,Yes,Few,,High,Low
+City Center,,1.0,2.0,No,1.0,25.0,Yes,Many,18.2,Medium,High
+Countryside,1855.0,1.0,,Yes,15.0,25.0,No,Few,2.3,,Medium
+City Center,1104.0,2.0,3.0,No,,13.0,No,Few,12.7,Medium,High
+Suburbs,1233.0,,1.0,,4.0,6.0,Yes,Few,16.6,High,Medium
+City Center,1579.0,1.0,1.0,Yes,3.0,32.0,,Few,13.4,Low,Low
+Countryside,2057.0,4.0,3.0,Yes,12.0,25.0,No,Many,22.6,High,Low
+Countryside,1204.0,2.0,1.0,,18.0,44.0,No,Few,24.9,High,Medium
+Suburbs,1376.0,2.0,3.0,Yes,1.0,19.0,No,Few,23.3,High,Medium
+City Center,,4.0,1.0,No,,2.0,Yes,Many,,Medium,Medium
+Countryside,1823.0,2.0,2.0,No,10.0,3.0,Yes,Many,6.2,Low,Low
+Suburbs,1687.0,3.0,1.0,Yes,3.0,,Yes,Many,16.3,Medium,Medium
+Countryside,1603.0,,2.0,Yes,19.0,10.0,No,Few,28.1,Medium,Medium
+Countryside,892.0,2.0,,No,19.0,1.0,No,Few,25.1,High,High
+City Center,2406.0,3.0,2.0,No,14.0,,Yes,Few,25.4,Medium,Medium
+,,1.0,,No,3.0,43.0,,Few,9.4,High,High
+City Center,1035.0,4.0,1.0,No,8.0,29.0,Yes,Many,13.2,Low,High
+Countryside,,1.0,3.0,,6.0,48.0,No,Few,14.4,Medium,High
+,536.0,4.0,2.0,No,18.0,11.0,Yes,Few,5.1,Medium,Low
+Countryside,1604.0,2.0,1.0,No,18.0,25.0,No,,1.4,Medium,High
+City Center,2081.0,1.0,2.0,Yes,5.0,43.0,No,Many,28.4,High,Medium
+City Center,,2.0,1.0,No,5.0,32.0,,Many,7.6,High,Low
+Suburbs,2351.0,2.0,1.0,No,,12.0,Yes,,7.6,Medium,Low
+Countryside,741.0,4.0,1.0,Yes,14.0,13.0,No,Few,3.0,Medium,Low
+Countryside,2376.0,4.0,,Yes,,23.0,Yes,Few,27.9,,Low
+Suburbs,,4.0,1.0,Yes,19.0,33.0,Yes,Few,17.6,Low,Low
+Countryside,374.0,1.0,1.0,No,8.0,43.0,No,Few,20.2,Low,Low
+Countryside,,3.0,3.0,No,3.0,25.0,No,Many,27.4,Low,Low
+City Center,2389.0,4.0,3.0,Yes,17.0,20.0,No,Many,10.7,Low,High
+,1679.0,4.0,1.0,Yes,17.0,27.0,,,18.8,,Medium
+Countryside,340.0,1.0,3.0,,4.0,47.0,No,Few,1.6,Low,Medium
+Suburbs,2381.0,4.0,2.0,,19.0,35.0,Yes,Few,6.0,Low,High
+Suburbs,2000.0,1.0,2.0,,10.0,39.0,No,Few,25.0,,High
+City Center,1701.0,2.0,3.0,Yes,4.0,1.0,No,Few,23.1,High,Low
+Countryside,887.0,4.0,3.0,No,3.0,41.0,No,Many,10.8,,Low
+Countryside,1922.0,4.0,1.0,No,11.0,8.0,Yes,Many,11.6,Low,High
+Countryside,641.0,2.0,3.0,No,1.0,22.0,No,Many,16.2,Low,Low
+City Center,2374.0,2.0,1.0,No,12.0,14.0,No,Few,0.5,Medium,Medium
+City Center,945.0,2.0,2.0,No,9.0,12.0,No,Few,7.6,Medium,Medium
+Suburbs,1030.0,4.0,3.0,No,,22.0,Yes,Many,6.6,Medium,Low
+City Center,467.0,3.0,1.0,Yes,9.0,16.0,No,Many,7.9,Low,Low
+Countryside,909.0,3.0,1.0,No,6.0,47.0,No,Few,,Medium,Low
+Countryside,2072.0,3.0,2.0,No,3.0,1.0,No,,8.8,Low,Medium
+City Center,,4.0,3.0,Yes,18.0,19.0,Yes,Many,6.1,High,Low
+Countryside,754.0,2.0,,No,9.0,19.0,Yes,Few,15.4,Low,High
+Countryside,2008.0,4.0,1.0,No,2.0,45.0,Yes,Many,26.0,Medium,Low
+City Center,1001.0,2.0,1.0,Yes,18.0,2.0,Yes,Many,7.6,High,High
+City Center,1899.0,4.0,3.0,Yes,1.0,11.0,No,Many,2.8,,Low
+Countryside,429.0,,1.0,Yes,19.0,39.0,No,Few,11.0,,Low
+Countryside,2145.0,2.0,3.0,No,9.0,1.0,Yes,Many,22.6,High,Medium
+Countryside,1686.0,3.0,2.0,Yes,1.0,35.0,Yes,Many,16.7,High,High
+Suburbs,992.0,,3.0,No,1.0,13.0,No,Many,24.6,Low,High
+Suburbs,1694.0,1.0,3.0,No,16.0,15.0,No,Few,28.8,,High
+Suburbs,1093.0,,1.0,No,15.0,18.0,Yes,Few,23.9,Low,Medium
+,328.0,2.0,1.0,No,15.0,33.0,Yes,Many,18.3,Medium,High
+Suburbs,448.0,4.0,3.0,,13.0,43.0,,Few,15.1,Low,Medium
+,1619.0,1.0,1.0,Yes,6.0,45.0,Yes,Many,1.7,Low,Low
+,2358.0,1.0,1.0,No,10.0,5.0,No,Few,29.5,Low,Low
+Suburbs,1436.0,4.0,1.0,Yes,0.0,12.0,Yes,Few,,Medium,High
+,486.0,4.0,3.0,,10.0,35.0,Yes,Many,,Low,Low
+Suburbs,1550.0,3.0,1.0,No,3.0,21.0,No,Many,,High,Low
+Countryside,1633.0,4.0,,,6.0,,No,Many,8.9,Low,High
+Suburbs,397.0,2.0,,Yes,14.0,11.0,No,Few,17.8,High,Low
+Countryside,354.0,2.0,2.0,No,17.0,29.0,No,Many,17.8,Medium,High
+City Center,1057.0,3.0,1.0,,,39.0,No,Few,13.6,,High
+,705.0,1.0,1.0,Yes,16.0,6.0,Yes,Few,25.2,Low,Low
+Suburbs,2416.0,1.0,3.0,Yes,0.0,31.0,Yes,Many,8.3,Low,Low
+City Center,1612.0,4.0,,Yes,10.0,,,Few,13.7,Low,Low
+City Center,2085.0,2.0,1.0,Yes,0.0,18.0,No,Many,16.4,High,Low
+City Center,1050.0,1.0,2.0,No,14.0,,Yes,Few,20.1,Medium,Low
+,2062.0,3.0,1.0,Yes,9.0,19.0,No,Many,23.6,,Medium
+Suburbs,664.0,3.0,1.0,No,6.0,26.0,Yes,,12.1,High,Low
+City Center,2326.0,2.0,2.0,Yes,1.0,42.0,Yes,,19.6,Low,Medium
+City Center,781.0,3.0,3.0,Yes,9.0,36.0,No,Many,,Low,High
+City Center,453.0,3.0,,Yes,3.0,,No,Few,,High,Low
+Countryside,1824.0,2.0,3.0,Yes,11.0,6.0,Yes,Many,11.8,High,Low
+Countryside,2420.0,4.0,3.0,Yes,18.0,4.0,Yes,,22.0,Low,Low
+Suburbs,,4.0,2.0,Yes,10.0,10.0,Yes,Few,1.1,Low,High
+Countryside,1964.0,3.0,,,7.0,14.0,Yes,Few,6.6,High,Medium
+City Center,1540.0,4.0,3.0,Yes,17.0,2.0,Yes,Many,14.9,Low,Medium
+Suburbs,360.0,4.0,1.0,Yes,10.0,4.0,No,Many,26.4,Low,Low
+City Center,1238.0,3.0,3.0,Yes,10.0,22.0,No,Many,16.1,High,Low
+City Center,1939.0,,1.0,Yes,,36.0,No,,27.9,High,Low
+Countryside,2389.0,3.0,1.0,No,,8.0,No,Many,14.8,,Low
+Suburbs,324.0,,2.0,Yes,11.0,14.0,Yes,Few,15.0,High,High
+Countryside,1362.0,2.0,1.0,Yes,2.0,2.0,Yes,Few,4.0,Low,Low
+Countryside,430.0,2.0,1.0,Yes,9.0,28.0,No,,24.2,High,High
+Suburbs,1552.0,4.0,3.0,Yes,16.0,5.0,Yes,Few,7.8,,Low
+City Center,407.0,,2.0,No,1.0,,No,Few,27.0,High,Medium
+City Center,471.0,4.0,1.0,,16.0,25.0,Yes,Few,27.4,Medium,Medium
+Suburbs,1758.0,2.0,1.0,No,15.0,20.0,Yes,Few,28.3,Medium,Low
+City Center,,1.0,,Yes,1.0,7.0,,Many,15.8,Low,Low
+Suburbs,1936.0,1.0,,No,19.0,20.0,No,,20.5,Medium,High
+Suburbs,1340.0,2.0,2.0,No,5.0,10.0,No,,23.5,High,Low
+,629.0,1.0,2.0,Yes,9.0,37.0,No,Many,4.4,Medium,Low
+Suburbs,1820.0,2.0,1.0,Yes,9.0,7.0,No,Few,18.2,High,Low
+Countryside,311.0,,1.0,No,7.0,,Yes,Many,1.5,Medium,Medium
+,,3.0,,,0.0,23.0,Yes,Few,15.2,Medium,High
+City Center,515.0,3.0,1.0,Yes,12.0,34.0,Yes,Few,5.1,Medium,Medium
+City Center,638.0,2.0,1.0,No,8.0,13.0,Yes,Few,5.9,High,High
+City Center,2099.0,1.0,2.0,No,9.0,13.0,No,Many,11.3,Medium,Medium
+Countryside,2050.0,,,No,14.0,9.0,Yes,Many,,High,Low
+City Center,1808.0,1.0,3.0,Yes,4.0,,Yes,Many,18.9,,Medium
+Suburbs,1009.0,3.0,2.0,No,15.0,37.0,Yes,Few,2.7,Low,Medium
+Suburbs,1523.0,3.0,3.0,,12.0,43.0,No,,15.4,Medium,High
+Suburbs,1412.0,,2.0,No,19.0,45.0,No,Few,5.9,Low,High
+Countryside,1591.0,,,Yes,,33.0,No,Many,,Low,Medium
+City Center,788.0,,2.0,Yes,10.0,40.0,,Few,19.3,High,High
+City Center,1861.0,4.0,2.0,No,8.0,9.0,No,Few,16.9,Medium,High
+City Center,346.0,1.0,,Yes,15.0,16.0,Yes,Many,22.3,,High
+Countryside,1077.0,1.0,1.0,No,1.0,16.0,Yes,Many,,High,High
+Suburbs,1339.0,1.0,3.0,Yes,,2.0,Yes,Many,23.1,Medium,High
+Suburbs,1010.0,1.0,3.0,Yes,11.0,30.0,No,,13.3,High,Medium
+City Center,700.0,,1.0,,7.0,0.0,No,Few,,,High
+Suburbs,2117.0,1.0,1.0,Yes,8.0,11.0,Yes,Few,19.6,Medium,Low
+Suburbs,,4.0,1.0,Yes,,38.0,Yes,,1.0,High,Medium
+Countryside,690.0,3.0,2.0,Yes,8.0,3.0,No,,19.8,High,Medium
+Countryside,634.0,2.0,2.0,No,9.0,41.0,No,Many,18.7,Low,Medium
+Countryside,928.0,1.0,2.0,Yes,,12.0,No,Many,,High,High
+Countryside,,3.0,1.0,Yes,15.0,33.0,Yes,Few,3.0,Medium,Low
+City Center,,2.0,3.0,No,19.0,41.0,Yes,Few,3.2,Low,High
+Countryside,1126.0,3.0,1.0,Yes,6.0,20.0,Yes,Few,27.7,Medium,Medium
+Suburbs,1026.0,1.0,2.0,Yes,,21.0,No,Few,20.8,Low,Medium
+City Center,1800.0,,2.0,Yes,0.0,3.0,No,Few,4.2,High,Medium
+Suburbs,1289.0,4.0,1.0,Yes,18.0,17.0,No,Few,11.0,High,Medium
+Suburbs,1234.0,1.0,1.0,Yes,3.0,4.0,Yes,Few,,High,High
+Suburbs,701.0,1.0,2.0,,1.0,18.0,,Few,25.1,Medium,Low
+Countryside,1766.0,2.0,2.0,No,13.0,1.0,No,Many,1.8,Low,Low
+Countryside,914.0,4.0,2.0,Yes,1.0,11.0,Yes,Many,7.5,Medium,Medium
+City Center,1596.0,2.0,1.0,Yes,14.0,16.0,No,Few,26.7,Low,Low
+City Center,,3.0,2.0,Yes,11.0,9.0,Yes,Many,0.8,High,Medium
+Countryside,1421.0,1.0,,No,4.0,33.0,No,Few,,Medium,Medium
+Suburbs,430.0,3.0,3.0,No,19.0,5.0,Yes,Few,28.8,,Low
+City Center,,2.0,1.0,Yes,6.0,7.0,Yes,Many,18.6,Medium,Medium
+Countryside,482.0,1.0,3.0,Yes,9.0,,No,Few,8.2,,Low
+Countryside,663.0,1.0,3.0,No,13.0,,No,Few,,Medium,Medium
+Countryside,338.0,2.0,2.0,Yes,13.0,8.0,No,Few,,Medium,Low
+,1672.0,2.0,1.0,No,4.0,1.0,,Few,7.7,,Medium
+Countryside,1220.0,,,No,17.0,7.0,No,Few,26.5,High,Low
+Countryside,315.0,,1.0,Yes,13.0,10.0,Yes,Few,12.8,Low,Medium
+Countryside,792.0,,3.0,,1.0,35.0,No,,21.7,Low,Medium
+Countryside,1749.0,1.0,1.0,Yes,,9.0,No,Many,27.6,High,Medium
+City Center,1431.0,2.0,2.0,,5.0,20.0,No,Many,12.5,Medium,Low
+City Center,610.0,1.0,2.0,Yes,3.0,19.0,Yes,Few,6.1,Low,High
+Countryside,1038.0,1.0,2.0,Yes,12.0,47.0,No,Many,15.8,High,Medium
+Suburbs,,2.0,1.0,,3.0,7.0,,Few,27.3,Medium,Medium
+City Center,,2.0,3.0,Yes,13.0,35.0,No,Few,24.2,Low,Low
+,1058.0,4.0,3.0,No,15.0,,Yes,Few,2.4,Low,Medium
+City Center,2104.0,1.0,1.0,No,3.0,41.0,Yes,Few,20.9,Low,Medium
+,1597.0,2.0,2.0,No,0.0,11.0,No,Many,17.4,Medium,Medium
+Suburbs,1931.0,2.0,3.0,No,12.0,13.0,Yes,Many,27.3,Low,Medium
+Countryside,2214.0,2.0,2.0,,3.0,,No,,4.1,Medium,High
+Countryside,1113.0,4.0,1.0,No,19.0,49.0,Yes,Many,,Low,High
+Suburbs,328.0,4.0,2.0,No,17.0,20.0,No,Few,26.4,High,Medium
+Suburbs,1257.0,3.0,3.0,No,5.0,21.0,Yes,,12.6,Low,Medium
+Countryside,2332.0,1.0,3.0,Yes,2.0,20.0,No,Few,14.7,High,Medium
+Countryside,,3.0,,No,12.0,43.0,No,Few,2.6,High,High
+Suburbs,617.0,2.0,1.0,Yes,,,Yes,Many,8.7,High,High
+City Center,544.0,,2.0,No,4.0,29.0,,Few,10.1,Medium,Low
+City Center,1047.0,4.0,1.0,Yes,3.0,38.0,No,Many,28.4,High,Low
+Suburbs,996.0,3.0,2.0,Yes,7.0,19.0,No,,8.8,Low,Medium
+City Center,571.0,4.0,,No,18.0,23.0,No,Many,14.1,Medium,Medium
+Suburbs,2071.0,2.0,1.0,Yes,13.0,22.0,Yes,Many,20.3,High,High
+City Center,1562.0,4.0,1.0,Yes,6.0,6.0,No,Many,5.3,Medium,Medium
+City Center,565.0,,1.0,No,13.0,8.0,Yes,Few,14.9,Medium,Medium
+Countryside,1220.0,2.0,,No,5.0,0.0,Yes,Many,,Medium,High
+Countryside,639.0,3.0,,No,11.0,25.0,,Many,26.1,Low,High
+City Center,688.0,4.0,3.0,Yes,15.0,37.0,Yes,Few,19.0,High,High
+City Center,2350.0,3.0,1.0,Yes,16.0,37.0,No,Many,20.2,Medium,High
+Countryside,1465.0,3.0,2.0,Yes,12.0,43.0,No,Many,4.2,Medium,Low
+Countryside,675.0,1.0,,No,13.0,21.0,Yes,Few,28.4,Medium,High
+Countryside,2333.0,4.0,1.0,,6.0,43.0,,Few,4.4,High,High
+Suburbs,445.0,,1.0,Yes,13.0,9.0,Yes,Many,23.4,Medium,Medium
+City Center,,3.0,3.0,,,5.0,No,Few,8.3,Medium,Medium
+Countryside,592.0,1.0,,Yes,11.0,16.0,No,Many,28.0,,Medium
+City Center,731.0,4.0,3.0,Yes,16.0,49.0,,Few,21.7,High,Low
+Suburbs,1004.0,2.0,1.0,Yes,8.0,37.0,Yes,Many,22.7,Low,High
+Suburbs,2298.0,3.0,3.0,Yes,14.0,23.0,Yes,Many,7.0,,High
+Countryside,,4.0,1.0,No,11.0,9.0,No,Many,13.6,,Low
+Suburbs,1263.0,2.0,3.0,No,1.0,7.0,Yes,Few,18.7,High,High
+City Center,2341.0,4.0,1.0,No,4.0,20.0,Yes,,23.2,Low,Medium
+Countryside,2128.0,2.0,,Yes,12.0,5.0,No,Few,3.6,Low,Low
+City Center,2408.0,3.0,2.0,Yes,19.0,20.0,Yes,Many,28.9,Low,High
+City Center,1238.0,4.0,3.0,No,7.0,38.0,No,Many,26.8,Low,Low
+Suburbs,1009.0,4.0,3.0,Yes,13.0,23.0,,Many,8.5,Medium,Low
+Suburbs,1106.0,1.0,1.0,No,14.0,32.0,No,Many,,Medium,High
+,1763.0,3.0,1.0,,10.0,17.0,,Many,15.8,Medium,Medium
+Suburbs,1625.0,,1.0,Yes,0.0,,No,Few,14.1,High,High
+,310.0,4.0,2.0,No,2.0,31.0,No,Few,9.8,Medium,High
+Countryside,,4.0,2.0,,,,Yes,Few,17.6,High,Medium
+City Center,2168.0,2.0,1.0,No,18.0,47.0,Yes,Many,22.0,Low,High
+,1071.0,3.0,3.0,No,13.0,41.0,Yes,Many,12.6,High,High
+City Center,1894.0,1.0,3.0,No,7.0,26.0,Yes,Few,19.1,High,High
+City Center,1907.0,1.0,,Yes,12.0,9.0,No,Many,21.1,Medium,Low
+,1633.0,,2.0,Yes,19.0,45.0,Yes,Many,21.5,Low,Low
+City Center,1184.0,2.0,1.0,Yes,2.0,41.0,Yes,Many,2.0,Low,Low
+Countryside,1689.0,4.0,3.0,No,4.0,31.0,Yes,Few,25.9,Medium,High
+Countryside,525.0,2.0,1.0,,8.0,41.0,Yes,Few,14.0,Low,Medium
+City Center,1124.0,1.0,2.0,No,5.0,25.0,No,Few,8.2,Low,Low
+City Center,1236.0,3.0,3.0,No,1.0,24.0,Yes,Few,7.6,Low,Medium
+Countryside,2211.0,2.0,,No,12.0,10.0,No,Few,14.7,Medium,High
+Countryside,,1.0,2.0,No,,22.0,Yes,Many,26.7,,Low
+Suburbs,353.0,4.0,1.0,Yes,7.0,33.0,No,Many,11.7,High,High
+Countryside,1026.0,2.0,1.0,Yes,0.0,39.0,No,Many,22.6,High,Medium
+,,3.0,3.0,Yes,19.0,,Yes,Many,3.4,Low,Low
+,1343.0,4.0,,Yes,11.0,28.0,No,Few,14.5,Medium,Low
+Suburbs,2213.0,4.0,3.0,,10.0,30.0,Yes,,29.8,Medium,Low
+,2076.0,1.0,2.0,No,6.0,6.0,No,Many,23.2,Medium,Low
+Suburbs,1896.0,2.0,1.0,No,14.0,39.0,No,Few,,Low,Medium
+City Center,2214.0,4.0,,No,10.0,32.0,No,Many,15.3,Low,Low
+Countryside,1149.0,3.0,1.0,,15.0,20.0,Yes,Many,7.4,High,High
+Suburbs,2409.0,2.0,2.0,No,2.0,1.0,No,Many,12.6,,Low
+Countryside,302.0,3.0,3.0,No,19.0,17.0,Yes,Many,23.5,High,Medium
+,459.0,4.0,1.0,,13.0,46.0,No,Few,23.3,,Low
+Suburbs,1080.0,3.0,3.0,No,2.0,32.0,No,Many,7.2,Medium,Medium
+City Center,1192.0,1.0,3.0,No,0.0,36.0,No,Few,27.7,Low,Medium
+,2330.0,3.0,1.0,,14.0,,No,Many,18.0,Low,High
+City Center,879.0,2.0,1.0,No,0.0,19.0,No,Many,,High,Low
+Countryside,2233.0,3.0,3.0,Yes,16.0,,No,Many,15.3,High,Low
+,1680.0,3.0,3.0,Yes,1.0,49.0,Yes,Many,18.3,High,Low
+City Center,1590.0,1.0,3.0,No,19.0,17.0,Yes,Few,17.0,High,High
+City Center,1940.0,3.0,3.0,Yes,5.0,,Yes,Many,14.8,Medium,High
+Countryside,1251.0,3.0,1.0,Yes,7.0,23.0,No,Few,15.4,High,Medium
+Countryside,1287.0,4.0,1.0,No,15.0,7.0,Yes,,5.7,High,Medium
+City Center,1518.0,,,No,18.0,29.0,No,Many,24.5,Low,Medium
+City Center,1220.0,2.0,2.0,No,,43.0,Yes,Many,16.5,Low,High
+Suburbs,1655.0,4.0,2.0,No,2.0,9.0,Yes,Few,4.4,Low,High
+City Center,469.0,4.0,1.0,No,2.0,22.0,No,Many,,Medium,High
+Suburbs,820.0,4.0,3.0,Yes,4.0,48.0,No,,28.0,Medium,Medium
+City Center,1786.0,4.0,3.0,No,11.0,,Yes,Many,28.4,Low,High
+Suburbs,339.0,1.0,1.0,No,,1.0,Yes,Many,,Low,Medium
+Countryside,,4.0,2.0,No,19.0,25.0,Yes,Many,4.5,High,Medium
+City Center,1718.0,1.0,2.0,Yes,12.0,35.0,,Few,15.8,High,Low
+City Center,,,2.0,No,,32.0,No,Few,3.8,Medium,Low
+,1283.0,4.0,1.0,No,8.0,,Yes,Many,28.1,Medium,Low
+City Center,,3.0,2.0,No,6.0,12.0,No,Many,5.9,High,Medium
+Suburbs,337.0,1.0,1.0,Yes,3.0,39.0,No,Few,8.0,Low,Low
+City Center,1574.0,3.0,1.0,No,18.0,24.0,Yes,Many,12.5,High,Low
+Countryside,1499.0,3.0,3.0,No,18.0,3.0,No,Few,11.8,Medium,Low
+Countryside,1925.0,,2.0,,5.0,,Yes,Many,23.9,Medium,High
+City Center,1213.0,2.0,1.0,,12.0,18.0,No,Many,14.0,High,Medium
+Countryside,753.0,4.0,2.0,No,10.0,17.0,No,,5.5,High,Low
+City Center,336.0,2.0,2.0,No,12.0,36.0,Yes,,8.4,High,High
+,2011.0,2.0,3.0,No,12.0,29.0,No,Few,15.5,Medium,High
+Countryside,1095.0,4.0,2.0,Yes,19.0,18.0,No,Few,4.8,Low,High
+City Center,1272.0,4.0,3.0,,14.0,22.0,Yes,Few,18.5,High,Low
+Countryside,892.0,,1.0,,,15.0,No,Many,17.2,Medium,High
+,1437.0,4.0,2.0,No,10.0,0.0,No,,21.6,Medium,Medium
+,1624.0,2.0,1.0,Yes,18.0,11.0,Yes,Few,28.2,Medium,High
+Suburbs,617.0,3.0,,Yes,7.0,23.0,Yes,Many,27.4,High,High
+Countryside,2462.0,4.0,,No,19.0,33.0,No,Many,28.4,High,High
+Suburbs,1646.0,3.0,2.0,Yes,7.0,7.0,No,Many,7.7,,High
+,1891.0,,2.0,Yes,9.0,17.0,No,Many,4.4,Medium,Medium
+Countryside,2189.0,3.0,2.0,,15.0,47.0,Yes,Many,9.4,High,Low
+Suburbs,2387.0,3.0,2.0,No,18.0,4.0,No,Many,26.9,Medium,Medium
+Suburbs,2296.0,2.0,2.0,,10.0,25.0,,Few,29.2,Medium,Medium
+Countryside,2072.0,3.0,2.0,Yes,12.0,29.0,No,Many,25.9,Low,Low
+Suburbs,1612.0,4.0,2.0,Yes,8.0,12.0,No,,,High,High
+Countryside,1585.0,2.0,2.0,Yes,19.0,18.0,No,,28.4,,Low
+Suburbs,515.0,1.0,2.0,No,18.0,28.0,No,Few,13.0,Medium,Low
+Countryside,2439.0,4.0,1.0,No,15.0,2.0,Yes,Few,0.8,,Medium
+,2004.0,1.0,,Yes,6.0,25.0,Yes,,13.6,Low,Low
+Suburbs,662.0,3.0,2.0,,,39.0,No,,1.9,Low,High
+,2016.0,4.0,3.0,Yes,,11.0,No,Few,16.5,Low,Medium
+Suburbs,1493.0,4.0,,,14.0,1.0,Yes,Many,,Low,High
+City Center,655.0,1.0,2.0,No,13.0,10.0,Yes,Many,,Low,Medium
+City Center,490.0,4.0,1.0,Yes,10.0,43.0,,Few,18.6,,High
+City Center,999.0,4.0,,No,9.0,27.0,No,Few,26.1,Medium,Low
+Countryside,2354.0,4.0,3.0,,10.0,17.0,No,Few,20.0,,Low
+Suburbs,2480.0,3.0,1.0,Yes,5.0,12.0,,Many,13.3,Medium,Low
+Countryside,856.0,1.0,1.0,Yes,1.0,36.0,No,Many,24.7,Medium,High
+City Center,1125.0,4.0,3.0,Yes,10.0,21.0,Yes,Many,27.2,High,Medium
+Suburbs,1354.0,2.0,1.0,Yes,18.0,11.0,Yes,Many,4.0,Medium,Medium
+Countryside,725.0,2.0,2.0,No,5.0,1.0,Yes,Few,16.2,Medium,Medium
+Suburbs,1874.0,2.0,3.0,Yes,13.0,36.0,Yes,Many,8.9,Low,Low
+Countryside,2429.0,2.0,3.0,Yes,19.0,,No,Few,1.9,Medium,High
+Suburbs,888.0,3.0,2.0,Yes,,25.0,No,Many,20.2,Low,Medium
+City Center,2312.0,,1.0,No,16.0,25.0,Yes,Many,26.0,Low,High
+City Center,1847.0,1.0,3.0,No,9.0,23.0,,Few,5.3,Low,Medium
+Suburbs,594.0,4.0,3.0,No,0.0,11.0,Yes,Many,24.5,High,Low
+Countryside,2285.0,3.0,2.0,No,2.0,15.0,Yes,Many,25.7,Low,High
+City Center,1547.0,2.0,2.0,Yes,7.0,22.0,Yes,Few,,Medium,Medium
+,1848.0,3.0,,,7.0,39.0,No,,8.3,Low,Medium
+City Center,1990.0,4.0,3.0,Yes,19.0,8.0,No,Few,27.2,,Medium
+,1436.0,,,No,14.0,31.0,Yes,Few,10.0,Low,Medium
+Suburbs,1556.0,3.0,1.0,Yes,6.0,14.0,Yes,Few,16.8,High,Low
+Countryside,2364.0,1.0,2.0,Yes,10.0,36.0,Yes,Few,2.0,Medium,Medium
+,659.0,3.0,3.0,No,,12.0,No,Many,,High,Medium
+Countryside,999.0,,3.0,No,3.0,4.0,No,Many,21.8,Medium,Low
+Suburbs,747.0,1.0,3.0,No,11.0,10.0,No,Many,13.6,High,Medium
+Suburbs,974.0,2.0,2.0,Yes,5.0,9.0,,Few,8.1,Medium,High
+Countryside,1307.0,1.0,2.0,Yes,13.0,12.0,,Many,6.1,High,High
+Countryside,1649.0,2.0,,No,11.0,40.0,Yes,Many,20.3,Low,Medium
+Suburbs,885.0,4.0,2.0,Yes,10.0,45.0,No,Many,0.5,High,Low
+Countryside,1556.0,4.0,2.0,No,,49.0,No,Many,24.3,High,Low
+City Center,1547.0,2.0,3.0,No,4.0,14.0,No,Few,2.8,Low,Low
+Suburbs,1293.0,2.0,1.0,Yes,13.0,41.0,Yes,Few,,Low,Medium
+Countryside,1735.0,3.0,3.0,No,15.0,6.0,Yes,Many,11.9,Medium,Medium
+Suburbs,871.0,3.0,1.0,No,12.0,39.0,No,Few,,Medium,High
+City Center,1545.0,3.0,2.0,,19.0,,Yes,Many,11.0,Medium,Low
+Suburbs,2384.0,4.0,1.0,Yes,3.0,31.0,Yes,Many,10.0,High,Medium
+Suburbs,1288.0,,3.0,No,10.0,34.0,Yes,Many,,Medium,Medium
+Suburbs,,1.0,3.0,No,16.0,14.0,Yes,Few,19.4,High,Medium
+Suburbs,1519.0,1.0,1.0,No,6.0,47.0,Yes,,1.2,High,Low
+City Center,2187.0,3.0,2.0,,13.0,35.0,Yes,Few,13.2,Medium,Low
+Suburbs,783.0,1.0,2.0,No,10.0,,Yes,Few,26.3,Medium,High
+Suburbs,1565.0,4.0,3.0,No,8.0,,No,Many,9.4,High,Low
+Countryside,1030.0,1.0,1.0,,12.0,0.0,Yes,,3.3,Low,Medium
+Suburbs,1340.0,,2.0,Yes,17.0,3.0,Yes,Few,22.9,Low,High
+,1217.0,2.0,,Yes,10.0,10.0,No,Many,18.4,High,Low
+,1185.0,2.0,3.0,No,14.0,43.0,No,Few,,,Low
+City Center,321.0,2.0,2.0,Yes,18.0,25.0,No,Few,2.1,High,Low
+City Center,773.0,2.0,1.0,Yes,0.0,36.0,No,Many,4.6,High,Low
+City Center,1003.0,1.0,3.0,No,3.0,,Yes,Many,18.9,Medium,Medium
+Countryside,986.0,3.0,3.0,,13.0,28.0,No,Few,6.6,,Low
+Suburbs,584.0,1.0,1.0,No,13.0,20.0,No,Many,15.4,High,Medium
+City Center,1015.0,4.0,3.0,No,,47.0,Yes,Many,16.6,Low,Medium
+,1062.0,1.0,2.0,No,,44.0,,Few,8.9,Low,Medium
+Countryside,1550.0,1.0,2.0,No,2.0,44.0,Yes,Few,28.5,Medium,High
+Countryside,1247.0,4.0,1.0,No,15.0,48.0,No,Many,25.4,High,Medium
+,1330.0,2.0,2.0,Yes,13.0,26.0,Yes,Few,21.8,High,Low
+City Center,328.0,2.0,,No,19.0,38.0,No,Many,2.8,Low,High
+Suburbs,1206.0,2.0,,Yes,,39.0,Yes,,3.6,Low,Low
+Suburbs,2426.0,3.0,,No,14.0,12.0,Yes,Few,15.0,Medium,Medium
+Suburbs,869.0,,1.0,No,13.0,22.0,No,Few,5.2,Low,Low
+Countryside,2306.0,4.0,2.0,No,18.0,15.0,Yes,Many,29.4,Medium,High
+City Center,1753.0,1.0,,Yes,5.0,,,Many,5.2,High,High
+,1037.0,3.0,3.0,No,9.0,3.0,Yes,Many,14.9,Medium,Low
+Countryside,815.0,2.0,,No,14.0,39.0,Yes,Many,11.2,Low,Low
+Suburbs,2300.0,3.0,2.0,No,19.0,15.0,Yes,Few,19.4,High,Low
+Countryside,338.0,4.0,2.0,No,,30.0,No,Many,4.3,Medium,High
+Suburbs,1186.0,,3.0,,9.0,41.0,No,Few,13.2,High,Medium
+,1398.0,1.0,3.0,,6.0,24.0,Yes,Few,8.6,,Low
+Suburbs,,1.0,2.0,Yes,,43.0,No,Many,26.7,Low,Medium
+,2010.0,4.0,1.0,No,17.0,11.0,,Few,1.7,Low,High
+Suburbs,1273.0,2.0,3.0,Yes,,,No,Few,27.5,High,Low
+Countryside,1862.0,2.0,1.0,,8.0,,Yes,Many,25.1,,Low
+Countryside,1288.0,3.0,1.0,No,9.0,,Yes,Few,9.3,High,High
+City Center,320.0,4.0,3.0,No,9.0,32.0,Yes,,,Medium,Low
+City Center,1168.0,,1.0,Yes,,27.0,No,Many,1.4,Low,Medium
+City Center,383.0,2.0,1.0,No,15.0,8.0,,Many,,High,High
+Suburbs,1982.0,2.0,2.0,No,17.0,,Yes,Many,16.0,High,High
+Suburbs,2276.0,4.0,1.0,No,5.0,4.0,Yes,Many,9.4,High,Low
+City Center,1710.0,1.0,2.0,Yes,19.0,27.0,No,,11.2,Medium,High
+Countryside,1830.0,4.0,3.0,No,0.0,34.0,No,Many,2.5,High,Low
+Suburbs,,4.0,3.0,,0.0,4.0,Yes,Many,29.7,High,Low
+,1233.0,2.0,2.0,No,11.0,33.0,No,Few,1.7,Medium,High
+Suburbs,,2.0,3.0,Yes,1.0,45.0,No,Few,19.8,Medium,Low
+,2155.0,1.0,1.0,No,3.0,33.0,No,,,,Medium
+City Center,1092.0,,1.0,Yes,16.0,12.0,No,Few,28.5,High,Medium
+City Center,1091.0,3.0,1.0,No,3.0,38.0,No,Few,7.8,Medium,Low
+City Center,2109.0,4.0,3.0,Yes,10.0,41.0,No,Many,16.2,Low,Medium
+City Center,1594.0,2.0,1.0,No,3.0,,No,Few,14.7,,Low
+Countryside,1907.0,1.0,3.0,No,0.0,47.0,Yes,Many,21.2,Low,Medium
+,1383.0,3.0,1.0,Yes,6.0,13.0,Yes,Few,2.5,High,High
+City Center,,3.0,2.0,Yes,17.0,10.0,No,,6.2,High,Low
+Suburbs,1980.0,2.0,,Yes,8.0,41.0,No,Few,6.8,,Low
+City Center,819.0,,3.0,No,2.0,,,Few,22.3,Medium,Low
+Countryside,890.0,3.0,1.0,No,7.0,,Yes,Few,6.1,,Low
+Countryside,1350.0,1.0,3.0,,18.0,32.0,Yes,Many,17.4,Low,Low
+Suburbs,2009.0,3.0,3.0,No,3.0,6.0,No,Few,6.8,Medium,Low
+Countryside,2335.0,4.0,2.0,Yes,17.0,40.0,Yes,Few,25.9,Low,High
+City Center,648.0,,2.0,No,19.0,7.0,No,Many,28.3,Medium,High
+Suburbs,,2.0,1.0,No,,36.0,No,Many,15.8,Medium,Medium
+City Center,2263.0,1.0,,No,,9.0,No,Few,10.9,Medium,Low
+City Center,992.0,1.0,1.0,No,,,No,Few,7.4,Medium,Medium
+Suburbs,,4.0,1.0,No,15.0,14.0,No,Few,2.0,Low,Medium
+City Center,677.0,3.0,1.0,,2.0,37.0,,Few,8.4,Low,High
+Countryside,826.0,2.0,3.0,No,14.0,,No,,19.8,Low,Medium
+City Center,1559.0,3.0,2.0,Yes,3.0,4.0,Yes,Few,16.2,Low,High
+Suburbs,2175.0,3.0,1.0,,,,No,Few,28.3,,Medium
+Suburbs,2063.0,3.0,2.0,No,16.0,18.0,Yes,Many,12.2,Medium,Low
+Suburbs,820.0,1.0,1.0,,6.0,9.0,No,Few,21.0,High,Medium
+City Center,2001.0,4.0,2.0,No,15.0,11.0,No,Few,14.9,High,High
+,1316.0,1.0,2.0,Yes,13.0,3.0,Yes,Few,15.6,Low,High
+Suburbs,,4.0,1.0,,15.0,30.0,Yes,Many,8.4,Low,High
+City Center,416.0,2.0,,Yes,,17.0,No,Many,13.9,High,Medium
+Countryside,1667.0,2.0,2.0,Yes,,15.0,,Few,14.4,Medium,Medium
+City Center,883.0,3.0,3.0,Yes,3.0,39.0,No,Few,21.3,Low,High
+,694.0,4.0,3.0,Yes,10.0,35.0,,Many,28.2,Medium,Low
+Suburbs,1387.0,4.0,1.0,No,1.0,24.0,Yes,Few,10.2,High,Low
+City Center,371.0,4.0,1.0,Yes,11.0,22.0,Yes,Few,1.7,High,Medium
+Countryside,573.0,3.0,1.0,Yes,,11.0,Yes,Many,15.1,Low,Medium
+Suburbs,2313.0,3.0,,No,3.0,33.0,Yes,Many,16.6,Medium,High
+Suburbs,1643.0,2.0,1.0,,17.0,35.0,No,Many,5.5,Low,Medium
+Suburbs,637.0,1.0,1.0,No,6.0,36.0,Yes,Few,,High,Medium
+City Center,,4.0,2.0,No,0.0,2.0,Yes,Few,29.6,Medium,High
+Suburbs,906.0,4.0,2.0,Yes,12.0,8.0,Yes,Few,28.4,Low,High
+,465.0,1.0,1.0,,5.0,,Yes,Few,6.3,Low,Medium
+Suburbs,1867.0,4.0,1.0,Yes,5.0,42.0,Yes,Many,26.3,Low,Low
+Suburbs,2358.0,3.0,1.0,Yes,,,No,Few,21.3,High,Medium
+Countryside,1624.0,3.0,1.0,,7.0,33.0,No,,13.9,Low,Low
+Suburbs,1028.0,4.0,3.0,No,,40.0,Yes,Many,16.4,Medium,Low
+City Center,2343.0,3.0,3.0,Yes,4.0,13.0,Yes,Many,25.6,,Low
+City Center,401.0,3.0,1.0,No,17.0,3.0,No,Few,14.7,High,High
+City Center,1715.0,4.0,3.0,No,4.0,28.0,,Many,11.5,,High
+,1078.0,2.0,2.0,,9.0,40.0,No,Many,15.1,High,High
+Suburbs,513.0,1.0,3.0,Yes,0.0,44.0,,Few,17.6,High,Medium
+,1411.0,3.0,3.0,,9.0,49.0,,,6.1,Medium,High
+Countryside,,2.0,1.0,Yes,4.0,14.0,No,,27.1,Medium,High
+Suburbs,1995.0,3.0,3.0,Yes,11.0,27.0,Yes,Few,20.4,Low,Medium
+Countryside,891.0,3.0,3.0,Yes,6.0,41.0,Yes,Many,19.2,High,Medium
+,1633.0,1.0,3.0,Yes,8.0,,No,Many,3.4,High,Low
+City Center,1409.0,3.0,3.0,Yes,11.0,11.0,No,Few,18.3,Medium,Medium
+City Center,2439.0,1.0,2.0,Yes,0.0,4.0,Yes,Few,4.1,Medium,Medium
+Countryside,1013.0,,1.0,Yes,10.0,33.0,No,Many,2.8,Low,High
+Countryside,1235.0,1.0,1.0,No,14.0,41.0,Yes,,16.1,High,Low
+,2251.0,2.0,2.0,Yes,1.0,0.0,No,Few,12.4,Medium,Low
+Countryside,541.0,4.0,3.0,No,19.0,38.0,No,,17.9,Low,Medium
+City Center,2343.0,2.0,2.0,,6.0,,,Few,3.1,High,High
+City Center,301.0,4.0,3.0,No,11.0,25.0,,Many,13.2,High,High
+Suburbs,2068.0,4.0,2.0,Yes,17.0,,Yes,Few,5.7,Medium,High
+Countryside,2249.0,1.0,1.0,Yes,2.0,47.0,,Many,29.6,Low,High
+City Center,2463.0,3.0,1.0,No,6.0,26.0,,Few,17.1,Medium,Medium
+City Center,1217.0,,1.0,Yes,10.0,23.0,Yes,Few,20.8,Low,High
+Countryside,389.0,3.0,3.0,,,34.0,No,,10.1,High,Low
+Suburbs,2009.0,4.0,3.0,Yes,11.0,45.0,No,,3.3,Low,Low
+Suburbs,2469.0,1.0,2.0,Yes,5.0,41.0,Yes,Many,29.3,Low,Medium
+City Center,442.0,3.0,2.0,No,4.0,38.0,,Few,8.9,,High
+Countryside,,2.0,1.0,No,0.0,25.0,Yes,Few,13.0,Low,High
+Suburbs,1186.0,3.0,3.0,,11.0,48.0,Yes,Few,19.7,Low,High
+,727.0,1.0,2.0,Yes,10.0,37.0,No,Few,1.2,Medium,High
+,1628.0,2.0,3.0,No,,22.0,No,Few,24.4,,Medium
+City Center,2195.0,3.0,3.0,Yes,17.0,21.0,Yes,Many,16.3,Low,High
+Suburbs,2294.0,3.0,1.0,Yes,3.0,3.0,Yes,Many,8.7,High,Medium
+City Center,616.0,3.0,1.0,Yes,16.0,48.0,Yes,Few,,Low,High
+Suburbs,2286.0,3.0,3.0,No,1.0,8.0,No,Few,5.3,,High
+,934.0,3.0,3.0,No,1.0,3.0,Yes,Many,26.9,Medium,Low
+Suburbs,2225.0,2.0,,No,11.0,6.0,Yes,,20.7,Medium,Medium
+Suburbs,,4.0,3.0,Yes,,,No,Few,7.9,Low,Low
+Suburbs,1739.0,,1.0,Yes,9.0,1.0,No,,2.4,Medium,Medium
+Countryside,852.0,2.0,2.0,No,15.0,48.0,Yes,Many,20.9,Low,High
+City Center,1015.0,2.0,1.0,Yes,13.0,23.0,Yes,Few,17.4,Medium,High
+Countryside,1587.0,4.0,2.0,Yes,6.0,39.0,No,Many,12.4,Low,Medium
+Suburbs,2013.0,1.0,,No,18.0,30.0,,Few,11.2,Low,Low
+City Center,2183.0,4.0,2.0,No,16.0,46.0,Yes,Many,6.9,High,Medium
+Suburbs,1407.0,2.0,1.0,,8.0,30.0,No,Many,20.3,High,Medium
+City Center,1641.0,3.0,1.0,Yes,12.0,46.0,No,,,High,High
+Countryside,410.0,3.0,3.0,Yes,4.0,39.0,No,Many,5.7,High,Low
+City Center,550.0,2.0,,Yes,,47.0,,Few,18.1,Low,Medium
+,2354.0,,3.0,Yes,9.0,42.0,No,Few,13.0,Medium,Low
+City Center,758.0,,1.0,Yes,9.0,33.0,No,Few,13.7,Low,Low
+,1407.0,3.0,1.0,No,6.0,23.0,,Few,8.0,High,Medium
+,507.0,4.0,3.0,Yes,14.0,48.0,,Many,24.8,High,Low
+Suburbs,1199.0,1.0,2.0,Yes,6.0,25.0,No,Few,14.8,Medium,High
+City Center,321.0,1.0,1.0,Yes,14.0,15.0,No,Few,16.5,High,High
+City Center,709.0,4.0,,No,2.0,46.0,Yes,Few,9.5,,High
+Countryside,,,1.0,No,18.0,12.0,Yes,Few,5.9,Low,High
+City Center,814.0,2.0,1.0,No,9.0,14.0,No,Many,,,Low
+Countryside,1108.0,2.0,1.0,Yes,14.0,26.0,No,Few,21.6,Low,High
+Suburbs,1173.0,2.0,1.0,No,2.0,3.0,Yes,Many,6.3,Low,Medium
+City Center,313.0,,2.0,No,5.0,15.0,No,Many,20.9,Medium,High
+Countryside,1270.0,2.0,2.0,No,11.0,29.0,Yes,Many,12.0,Low,Medium
+Countryside,2434.0,4.0,1.0,Yes,14.0,43.0,No,Few,12.8,High,Medium
+Suburbs,1860.0,1.0,1.0,No,5.0,29.0,Yes,Few,14.3,High,High
+City Center,1624.0,3.0,,,12.0,35.0,Yes,Few,11.3,High,High
+City Center,1566.0,2.0,3.0,Yes,18.0,2.0,No,Few,3.5,High,Low
+Countryside,2469.0,3.0,3.0,No,2.0,21.0,No,,9.6,Medium,Medium
+City Center,1049.0,3.0,2.0,Yes,7.0,48.0,Yes,Many,20.1,High,High
+Countryside,,2.0,1.0,No,7.0,21.0,No,Few,20.1,Medium,Low
+City Center,2227.0,3.0,1.0,Yes,19.0,49.0,No,Few,8.9,High,High
+Countryside,994.0,1.0,3.0,No,14.0,49.0,No,Few,14.1,Medium,High
+City Center,606.0,4.0,,No,,48.0,Yes,Few,6.2,Medium,High
+,2289.0,4.0,2.0,No,18.0,,No,Few,6.7,Medium,Medium
+City Center,961.0,1.0,3.0,Yes,2.0,20.0,No,Few,1.2,High,High
+City Center,848.0,3.0,2.0,No,12.0,3.0,Yes,Few,27.0,Medium,Low
+,611.0,2.0,,Yes,7.0,30.0,No,Many,6.7,,High
+City Center,1382.0,3.0,3.0,No,15.0,43.0,,,7.2,Low,High
+Suburbs,2037.0,1.0,3.0,Yes,12.0,30.0,Yes,Many,8.7,,Low
+City Center,1054.0,3.0,1.0,Yes,2.0,22.0,Yes,Many,4.3,Low,Low
+Countryside,,4.0,1.0,No,15.0,19.0,No,,19.4,Low,Medium
+Countryside,744.0,,1.0,No,8.0,14.0,No,Few,2.7,,Medium
+,2440.0,1.0,,No,13.0,22.0,Yes,Few,4.5,High,Medium
+City Center,2282.0,4.0,2.0,No,12.0,27.0,Yes,,19.5,High,Medium
+City Center,1530.0,3.0,2.0,No,6.0,15.0,No,Few,10.5,Low,Low
+Countryside,652.0,3.0,2.0,Yes,14.0,36.0,No,Many,21.4,High,High
+City Center,1202.0,4.0,2.0,No,6.0,20.0,No,Few,16.9,Medium,High
+Countryside,1655.0,2.0,1.0,No,5.0,14.0,Yes,,8.1,Low,High
+Suburbs,2048.0,4.0,1.0,Yes,1.0,16.0,No,,19.7,High,Medium
+Countryside,458.0,2.0,3.0,No,8.0,49.0,Yes,Many,,High,Low
+Countryside,2277.0,1.0,3.0,No,16.0,36.0,Yes,,16.3,Low,Low
+Suburbs,1256.0,,2.0,Yes,4.0,12.0,Yes,Many,13.4,High,Low
+Countryside,2371.0,4.0,1.0,No,11.0,18.0,No,Few,8.4,Low,High
+City Center,703.0,4.0,2.0,No,0.0,29.0,No,,18.3,High,Medium
+,815.0,1.0,3.0,No,,,No,Few,,Medium,Low
+Countryside,1687.0,2.0,3.0,Yes,10.0,17.0,Yes,Few,30.0,Low,Medium
+City Center,1255.0,1.0,,No,15.0,13.0,No,Many,18.4,Medium,Low
+Countryside,2499.0,4.0,3.0,Yes,13.0,35.0,Yes,Few,12.4,Low,Medium
+City Center,2012.0,1.0,2.0,No,7.0,35.0,Yes,,7.1,High,Low
+City Center,907.0,4.0,1.0,Yes,16.0,19.0,Yes,Few,8.1,Medium,Medium
+Countryside,1573.0,4.0,2.0,No,17.0,18.0,Yes,Many,,High,Low
+City Center,1835.0,1.0,1.0,Yes,11.0,44.0,Yes,Few,11.3,Low,Low
+Countryside,1741.0,2.0,1.0,Yes,16.0,43.0,Yes,Few,27.5,Low,Medium
+City Center,2097.0,3.0,,Yes,13.0,6.0,No,Many,11.4,Low,Medium
+City Center,594.0,1.0,3.0,Yes,15.0,43.0,Yes,Few,11.5,Low,High
+,1054.0,3.0,3.0,Yes,13.0,3.0,No,Few,,Low,Medium
+Suburbs,1694.0,1.0,2.0,Yes,8.0,33.0,Yes,Many,25.2,Medium,Low
+Countryside,485.0,3.0,2.0,No,3.0,1.0,No,Few,19.7,Low,Low
+Suburbs,1569.0,2.0,3.0,No,10.0,4.0,No,Many,18.6,High,Medium
+Countryside,,,2.0,Yes,5.0,9.0,No,Few,10.4,,High
+,1591.0,1.0,3.0,Yes,14.0,31.0,No,Many,24.6,,Medium
+City Center,829.0,,2.0,Yes,4.0,41.0,Yes,Many,1.6,Low,Low
+Countryside,2368.0,3.0,1.0,Yes,10.0,,Yes,Many,26.2,High,Low
+Countryside,1093.0,4.0,1.0,No,17.0,12.0,Yes,Many,15.6,Medium,High
+,2447.0,,3.0,Yes,12.0,38.0,Yes,Few,12.2,Medium,Medium
+Countryside,777.0,4.0,2.0,,,4.0,No,Few,,Medium,Low
+Countryside,1922.0,,2.0,No,13.0,9.0,No,Many,20.2,High,Low
+Suburbs,1239.0,1.0,1.0,Yes,,9.0,No,Few,0.9,Medium,Low
+Countryside,825.0,1.0,1.0,,18.0,37.0,Yes,,26.2,High,Medium
+City Center,301.0,2.0,3.0,No,14.0,26.0,No,Few,13.7,Low,Medium
+Suburbs,674.0,2.0,1.0,No,8.0,20.0,,Many,10.6,Low,High
+Suburbs,852.0,1.0,3.0,Yes,7.0,7.0,No,Few,4.6,High,Low
+,1825.0,4.0,1.0,Yes,19.0,0.0,No,Few,13.5,Medium,Low
+City Center,2151.0,3.0,1.0,Yes,0.0,27.0,No,Many,,High,High
+Suburbs,680.0,3.0,2.0,No,,48.0,No,Few,12.4,High,Low
+Countryside,1946.0,,1.0,No,13.0,38.0,No,Many,20.5,High,High
+Suburbs,313.0,4.0,1.0,Yes,1.0,13.0,Yes,Many,12.9,Low,High
+City Center,803.0,1.0,3.0,No,15.0,20.0,No,Many,28.9,High,Low
+Suburbs,2308.0,2.0,1.0,No,2.0,29.0,,Few,18.2,Low,Medium
+City Center,429.0,,,Yes,7.0,20.0,Yes,Few,24.3,High,Medium
+Suburbs,1137.0,,,Yes,5.0,48.0,Yes,Many,3.7,,Medium
+,2340.0,2.0,1.0,No,15.0,8.0,Yes,,12.2,,Medium
+Suburbs,327.0,4.0,3.0,No,15.0,,Yes,Many,10.4,High,Low
+Suburbs,2413.0,3.0,2.0,Yes,6.0,4.0,Yes,Many,17.3,Medium,High
+,1552.0,3.0,3.0,Yes,,30.0,Yes,,25.9,Medium,High
+City Center,560.0,4.0,3.0,Yes,12.0,39.0,Yes,Many,2.8,High,Low
+City Center,2346.0,2.0,3.0,Yes,4.0,37.0,No,Few,2.6,,Medium
+Suburbs,1772.0,2.0,,Yes,19.0,42.0,No,Many,25.6,,High
+,1747.0,1.0,1.0,No,17.0,18.0,Yes,Many,6.8,High,Low
+City Center,759.0,,3.0,No,14.0,35.0,Yes,Many,20.2,Medium,Low
+City Center,600.0,1.0,3.0,No,17.0,49.0,Yes,Few,16.5,Low,Medium
+,929.0,1.0,2.0,No,1.0,32.0,No,Few,,High,Low
+City Center,569.0,4.0,3.0,Yes,,,No,Few,4.2,Medium,High
+Countryside,2293.0,4.0,1.0,Yes,12.0,13.0,Yes,Few,4.3,High,High
+Countryside,1928.0,1.0,2.0,Yes,17.0,32.0,Yes,,16.9,High,Low
+City Center,2101.0,3.0,1.0,No,14.0,28.0,No,Few,28.4,Low,High
+City Center,,4.0,1.0,No,11.0,42.0,No,Many,12.7,High,Low
+Suburbs,1580.0,1.0,2.0,No,14.0,48.0,Yes,,10.1,,High
+Countryside,2480.0,1.0,3.0,Yes,12.0,35.0,Yes,Many,18.4,,Medium
+Countryside,2099.0,1.0,1.0,No,17.0,43.0,Yes,Many,27.9,Low,High
+City Center,2006.0,1.0,1.0,Yes,14.0,9.0,,Many,25.2,Low,Medium
+Suburbs,875.0,1.0,,Yes,10.0,30.0,No,Many,29.9,Low,Medium
+Countryside,2303.0,1.0,1.0,Yes,18.0,,No,Few,1.2,Medium,Low
+Countryside,1607.0,4.0,2.0,Yes,2.0,0.0,Yes,,3.8,Medium,Medium
+Suburbs,2256.0,3.0,2.0,Yes,,6.0,Yes,Few,18.5,Medium,High
+Suburbs,2320.0,1.0,1.0,Yes,13.0,26.0,Yes,Few,24.7,High,High
+Countryside,1955.0,2.0,3.0,No,13.0,20.0,No,Few,8.9,Low,Medium
+Countryside,1879.0,4.0,1.0,Yes,12.0,,,Many,7.6,Low,Low
+Suburbs,,4.0,3.0,Yes,11.0,15.0,Yes,Few,23.7,Medium,Medium
+Countryside,1690.0,1.0,1.0,No,8.0,45.0,Yes,Few,2.2,High,High
+City Center,,4.0,3.0,Yes,0.0,22.0,No,Few,11.4,High,High
+City Center,2225.0,1.0,1.0,,18.0,19.0,Yes,Many,15.4,High,Medium
+Suburbs,,3.0,3.0,,10.0,37.0,No,Many,17.0,,Medium
+Suburbs,,3.0,1.0,No,18.0,24.0,Yes,Many,22.0,High,Medium
+Suburbs,1256.0,4.0,1.0,Yes,17.0,27.0,Yes,Few,,,High
+,,4.0,3.0,Yes,11.0,4.0,Yes,Few,18.6,High,High
+Countryside,1268.0,2.0,2.0,No,0.0,20.0,No,,17.8,Low,High
+City Center,1616.0,4.0,,Yes,18.0,17.0,,Few,16.7,Medium,Low
+Countryside,1343.0,2.0,2.0,Yes,19.0,46.0,Yes,Few,19.4,Low,High
+City Center,581.0,3.0,1.0,No,,5.0,No,Many,8.2,Low,High
+Countryside,,3.0,3.0,,4.0,28.0,No,Few,3.0,Medium,Low
+City Center,1358.0,,3.0,Yes,,,No,Many,4.0,Low,Low
+Suburbs,497.0,3.0,,No,1.0,32.0,Yes,Few,7.1,,Low
+City Center,,2.0,2.0,No,2.0,0.0,No,Many,15.3,,Low
+Countryside,1484.0,4.0,2.0,No,7.0,44.0,Yes,Many,25.3,High,Low
+City Center,1308.0,1.0,1.0,Yes,15.0,2.0,No,Many,21.2,High,Low
+City Center,,,2.0,Yes,,,No,Many,23.8,Medium,Medium
+City Center,1335.0,4.0,2.0,Yes,12.0,20.0,No,Few,10.9,Low,Medium
+Suburbs,789.0,1.0,1.0,No,15.0,34.0,Yes,Few,12.4,Low,Medium
+City Center,575.0,3.0,3.0,Yes,15.0,40.0,Yes,Few,12.1,High,Medium
+Suburbs,1539.0,,3.0,No,2.0,39.0,Yes,Many,6.2,High,High
+Suburbs,,4.0,1.0,Yes,,2.0,Yes,Few,2.3,Low,Low
+City Center,425.0,1.0,3.0,Yes,13.0,,Yes,Few,17.9,Medium,High
+City Center,516.0,1.0,2.0,No,7.0,44.0,Yes,Few,29.7,Low,Low
+City Center,1508.0,3.0,1.0,Yes,,37.0,Yes,Few,5.4,High,Low
+,1546.0,4.0,1.0,No,,44.0,Yes,Many,1.9,High,High
+City Center,1218.0,3.0,1.0,Yes,8.0,19.0,Yes,,23.5,,Medium
+Suburbs,1617.0,3.0,3.0,Yes,0.0,43.0,No,Few,8.0,Low,High
+City Center,2498.0,4.0,1.0,No,5.0,44.0,No,Few,25.0,Medium,High
+Countryside,1961.0,4.0,1.0,No,18.0,33.0,Yes,Few,,Medium,Low
+City Center,607.0,4.0,1.0,No,10.0,20.0,Yes,,28.4,High,Low
+Countryside,1659.0,,3.0,Yes,10.0,47.0,Yes,Many,12.6,Low,Low
+Countryside,2269.0,4.0,2.0,,12.0,22.0,Yes,Many,20.0,High,Medium
+,1191.0,1.0,1.0,Yes,10.0,5.0,No,Few,14.2,Low,High
+Suburbs,674.0,3.0,,No,17.0,12.0,No,Many,19.1,High,High
+Countryside,2333.0,2.0,3.0,No,14.0,,Yes,Many,13.8,High,Medium
+City Center,1664.0,4.0,3.0,No,,22.0,No,Many,6.1,Low,High
+City Center,,2.0,3.0,Yes,6.0,8.0,No,,15.5,Low,High
+Suburbs,1314.0,4.0,3.0,Yes,12.0,16.0,Yes,Many,16.1,High,Low
+Countryside,2099.0,2.0,2.0,No,11.0,1.0,Yes,Few,24.4,Low,Medium
+Countryside,1681.0,3.0,1.0,Yes,17.0,18.0,Yes,Few,22.2,High,Low
+City Center,816.0,3.0,,,18.0,18.0,Yes,Few,20.1,Low,Medium
+City Center,,1.0,3.0,Yes,,6.0,No,Few,3.8,High,Low
+Suburbs,385.0,1.0,2.0,Yes,7.0,41.0,Yes,Many,21.8,,High
+Suburbs,1498.0,,2.0,No,18.0,41.0,No,Few,15.3,High,Medium
+Countryside,1442.0,,3.0,Yes,9.0,19.0,Yes,Few,26.9,Medium,Medium
+Countryside,2293.0,2.0,1.0,Yes,6.0,8.0,No,Few,27.6,Low,Low
+City Center,2461.0,,,No,17.0,16.0,Yes,Many,,High,Medium
+,602.0,2.0,,No,15.0,26.0,Yes,Few,24.7,Medium,High
+Suburbs,887.0,1.0,2.0,Yes,19.0,46.0,No,Many,1.6,,High
+Suburbs,1286.0,,3.0,No,5.0,1.0,No,Many,11.3,Medium,High
+,2163.0,1.0,3.0,Yes,8.0,35.0,No,Many,16.5,High,Low
+Suburbs,644.0,,2.0,,12.0,18.0,Yes,Few,4.9,High,Medium
+,1113.0,4.0,3.0,Yes,7.0,16.0,No,Many,22.5,Medium,Low
+Suburbs,,2.0,3.0,Yes,15.0,,No,Few,0.7,Medium,High
+Suburbs,1610.0,2.0,3.0,No,12.0,38.0,No,Few,5.5,Low,Medium
+City Center,2299.0,3.0,2.0,Yes,12.0,17.0,No,Few,17.6,Low,High
+City Center,1977.0,4.0,1.0,,16.0,6.0,No,Many,21.6,Medium,Medium
+,1627.0,,1.0,No,19.0,16.0,No,Many,,Low,Medium
+Suburbs,1392.0,4.0,,No,4.0,38.0,No,Few,21.3,Medium,Low
+Countryside,1309.0,2.0,1.0,Yes,16.0,,No,Many,20.3,Low,Medium
+,1003.0,1.0,3.0,No,8.0,39.0,No,Many,,High,High
+City Center,874.0,1.0,1.0,No,1.0,,Yes,,,Low,Medium
+City Center,1908.0,1.0,,Yes,17.0,3.0,Yes,Few,4.0,High,High
+City Center,1412.0,1.0,1.0,Yes,8.0,37.0,,Many,16.3,,Low
+City Center,987.0,1.0,2.0,No,5.0,,,Many,20.4,Low,High
+City Center,788.0,3.0,1.0,No,10.0,4.0,Yes,Few,12.8,Medium,Medium
+City Center,1647.0,4.0,,No,5.0,,No,Many,22.1,High,High
+Suburbs,,2.0,,Yes,5.0,11.0,No,Few,15.9,High,High
+Countryside,1967.0,3.0,2.0,Yes,12.0,,,Many,2.7,Low,Medium
+City Center,1937.0,4.0,1.0,Yes,10.0,23.0,No,Many,6.2,Medium,High
+Suburbs,318.0,1.0,2.0,Yes,13.0,28.0,,Many,25.3,Medium,Medium
+Suburbs,1300.0,4.0,3.0,Yes,1.0,8.0,No,Many,21.9,Low,Low
+Countryside,1150.0,4.0,1.0,Yes,7.0,3.0,Yes,Many,26.9,Medium,High
+City Center,1688.0,1.0,2.0,Yes,2.0,23.0,No,Many,4.0,Low,Low
+Countryside,1654.0,1.0,2.0,No,2.0,13.0,Yes,Few,29.7,Low,High
+City Center,1667.0,1.0,1.0,No,0.0,4.0,,Many,6.7,Low,High
+Suburbs,1121.0,2.0,3.0,Yes,18.0,17.0,No,Many,0.8,High,Low
+Suburbs,754.0,,2.0,Yes,17.0,41.0,Yes,Many,,High,High
+Suburbs,1924.0,2.0,1.0,Yes,16.0,18.0,No,Few,8.8,High,High
+Suburbs,1010.0,1.0,3.0,No,19.0,11.0,No,Few,20.2,Low,Low
+Countryside,2490.0,2.0,2.0,Yes,12.0,17.0,Yes,Few,5.7,High,High
+,1216.0,4.0,2.0,,2.0,16.0,No,Many,17.6,High,Medium
+City Center,1796.0,3.0,3.0,No,0.0,29.0,Yes,Many,27.2,,High
+Countryside,1740.0,4.0,3.0,No,3.0,23.0,No,Few,9.9,Low,High
+City Center,,4.0,1.0,No,,10.0,No,Few,20.3,,High
+Suburbs,1035.0,1.0,1.0,No,16.0,34.0,Yes,Few,6.0,Low,Low
+,2263.0,2.0,2.0,Yes,10.0,22.0,No,Many,18.9,High,Medium
+Suburbs,2449.0,3.0,,Yes,1.0,16.0,,Few,10.4,Medium,Medium
+Countryside,2309.0,1.0,3.0,No,,0.0,Yes,Many,6.7,High,High
+City Center,1261.0,1.0,3.0,Yes,1.0,14.0,Yes,Many,9.7,High,Low
+Countryside,1326.0,1.0,2.0,,18.0,31.0,No,Many,5.8,Low,Low
+City Center,2432.0,4.0,3.0,No,18.0,8.0,No,Few,27.1,Low,Medium
+Suburbs,1773.0,2.0,3.0,Yes,15.0,14.0,Yes,Many,12.2,High,Low
+Countryside,2247.0,2.0,2.0,Yes,18.0,27.0,No,Few,7.7,,High
+City Center,1477.0,,1.0,Yes,8.0,23.0,No,Few,13.7,,High
+Suburbs,964.0,2.0,,Yes,0.0,34.0,No,Few,,Medium,Low
+Countryside,311.0,2.0,,,,21.0,,Few,22.5,Low,High
+Countryside,1456.0,1.0,3.0,No,18.0,26.0,No,,29.2,Medium,Medium
+City Center,603.0,1.0,2.0,Yes,0.0,18.0,Yes,Many,13.4,Medium,High
+City Center,2063.0,4.0,1.0,Yes,1.0,44.0,No,Many,25.9,Low,Low
+City Center,342.0,1.0,1.0,Yes,15.0,11.0,,Many,17.2,Medium,Medium
+Suburbs,1243.0,1.0,,No,11.0,19.0,Yes,Few,5.1,High,High
+City Center,,1.0,2.0,Yes,7.0,0.0,No,Few,20.9,,Medium
+Countryside,1190.0,,1.0,No,17.0,20.0,Yes,Few,15.6,Low,Low
+Countryside,1304.0,4.0,2.0,Yes,1.0,48.0,No,Few,,High,High
+City Center,320.0,1.0,1.0,Yes,12.0,44.0,Yes,,26.7,,High
+City Center,706.0,3.0,,No,5.0,0.0,No,Few,13.5,High,Medium
+Countryside,1314.0,3.0,2.0,Yes,5.0,9.0,No,Many,27.1,,High
+Suburbs,,3.0,2.0,Yes,8.0,46.0,,Few,22.6,Medium,High
+City Center,2138.0,,,No,15.0,31.0,Yes,Few,14.9,Medium,High
+City Center,1447.0,1.0,2.0,Yes,10.0,38.0,Yes,Few,18.3,Low,High
+,2127.0,3.0,1.0,No,6.0,,Yes,Few,10.1,Low,Low
+City Center,1014.0,1.0,1.0,No,9.0,,No,Many,29.5,High,High
+Suburbs,350.0,4.0,2.0,No,,47.0,Yes,Many,,,Medium
+Countryside,623.0,3.0,,,19.0,45.0,,Many,1.8,High,Low
+City Center,1088.0,,1.0,No,,31.0,Yes,Many,10.1,High,Medium
+Countryside,440.0,3.0,1.0,Yes,19.0,26.0,Yes,Few,18.9,Low,Medium
+City Center,769.0,3.0,3.0,Yes,8.0,27.0,Yes,Few,2.2,Low,Medium
+City Center,1086.0,1.0,1.0,Yes,14.0,17.0,Yes,Many,1.2,Low,Low
+City Center,2125.0,3.0,3.0,No,3.0,38.0,,Many,13.8,Medium,Low
+Suburbs,1657.0,,3.0,No,7.0,48.0,Yes,Few,10.3,High,Low
+,2216.0,1.0,3.0,No,8.0,28.0,Yes,Few,,,High
+Countryside,1263.0,1.0,2.0,No,12.0,17.0,Yes,Many,,High,Medium
+City Center,672.0,4.0,2.0,Yes,8.0,,No,Many,5.4,Low,Low
+City Center,1992.0,,1.0,Yes,,7.0,No,Many,20.8,Low,Medium
+Suburbs,1479.0,3.0,3.0,No,,30.0,Yes,Few,15.7,Low,Low
+City Center,1971.0,4.0,2.0,No,15.0,33.0,No,Many,6.4,Low,Low
+Suburbs,405.0,4.0,2.0,Yes,,6.0,No,Many,9.9,Low,Low
+City Center,1743.0,4.0,2.0,No,,35.0,Yes,Many,18.0,Medium,Medium
+Countryside,1981.0,,2.0,No,19.0,17.0,Yes,Many,2.6,Low,High
+City Center,301.0,1.0,2.0,No,4.0,37.0,Yes,Many,4.8,,Low
+City Center,2437.0,1.0,,Yes,4.0,,No,,2.7,Low,Low
+,,4.0,3.0,,19.0,8.0,Yes,Many,24.5,High,Low
+City Center,1586.0,1.0,3.0,,,,No,Few,22.7,Low,High
+City Center,1362.0,4.0,3.0,Yes,17.0,,Yes,Many,22.7,Low,Medium
+Suburbs,744.0,1.0,1.0,No,14.0,34.0,No,Many,21.6,High,Medium
+Countryside,,1.0,3.0,No,1.0,,No,Many,20.2,High,Medium
+Countryside,335.0,2.0,2.0,Yes,12.0,4.0,Yes,Few,14.6,,Medium
+Suburbs,1407.0,,3.0,No,3.0,,Yes,Few,19.4,High,Low
+Suburbs,1775.0,4.0,1.0,No,9.0,27.0,No,Few,1.6,Medium,High
+Suburbs,2098.0,2.0,,Yes,12.0,29.0,No,,18.8,High,Low
+Suburbs,2145.0,1.0,3.0,No,9.0,3.0,Yes,Many,23.4,Low,High
+Suburbs,1708.0,4.0,3.0,,8.0,38.0,Yes,Few,15.3,Low,Medium
+Countryside,1495.0,1.0,3.0,No,7.0,19.0,No,Few,11.0,Medium,High
+Countryside,1699.0,3.0,2.0,Yes,2.0,24.0,Yes,Many,8.7,High,Low
+Suburbs,2008.0,2.0,2.0,No,15.0,27.0,No,Few,19.5,Low,Low
+City Center,1685.0,3.0,1.0,Yes,,11.0,Yes,Many,20.9,Medium,Medium
+Suburbs,2488.0,2.0,,No,8.0,1.0,Yes,Few,26.2,,Low
+City Center,,1.0,2.0,No,10.0,,Yes,Few,10.6,Medium,Low
+,1543.0,3.0,,No,2.0,,No,Few,23.2,Medium,High
+Suburbs,820.0,3.0,2.0,No,4.0,21.0,Yes,Many,17.1,High,Low
+Countryside,,1.0,3.0,Yes,9.0,30.0,No,Many,26.5,Medium,Medium
+City Center,309.0,3.0,3.0,Yes,12.0,22.0,Yes,Few,16.1,,Medium
+City Center,,4.0,2.0,No,3.0,47.0,No,Many,15.8,Low,Low
+Countryside,1956.0,2.0,1.0,No,12.0,19.0,No,,17.5,High,Medium
+Countryside,1960.0,,,No,11.0,37.0,Yes,Many,22.6,High,High
+Countryside,2499.0,,2.0,No,4.0,3.0,,Many,29.0,Medium,High
+Countryside,1019.0,4.0,1.0,No,9.0,,No,Few,2.7,High,Low
+City Center,1372.0,2.0,3.0,No,8.0,23.0,No,Many,2.1,,Low
+City Center,1158.0,1.0,3.0,No,19.0,24.0,,Many,28.2,Low,High
+Suburbs,1616.0,3.0,2.0,No,,,Yes,Few,16.1,High,Medium
+Suburbs,1903.0,4.0,1.0,Yes,1.0,6.0,Yes,Many,18.6,High,Low
+Countryside,349.0,2.0,1.0,Yes,6.0,30.0,Yes,Many,14.7,High,Low
+Countryside,445.0,1.0,3.0,Yes,7.0,11.0,No,Many,3.3,Medium,Medium
+Countryside,1214.0,3.0,2.0,,6.0,41.0,No,Few,23.2,Medium,Low
+Suburbs,,3.0,1.0,No,,4.0,Yes,Few,22.5,Low,Medium
+Suburbs,,4.0,2.0,No,18.0,43.0,Yes,Many,9.7,Medium,Medium
+Suburbs,1884.0,4.0,1.0,Yes,4.0,,No,Many,9.5,Medium,Medium
+Suburbs,782.0,4.0,3.0,No,17.0,41.0,Yes,Few,,,Medium
+Suburbs,1549.0,1.0,3.0,Yes,19.0,37.0,,Few,2.6,Medium,Medium
+Suburbs,972.0,1.0,2.0,No,,11.0,No,Few,26.5,,High
+Suburbs,930.0,4.0,3.0,Yes,16.0,38.0,,Many,8.1,High,Medium
+Countryside,961.0,2.0,1.0,Yes,12.0,17.0,No,Many,18.0,Low,High
+Countryside,1287.0,3.0,3.0,,1.0,1.0,Yes,Few,28.1,Medium,Medium
+,1846.0,3.0,2.0,No,,9.0,No,Many,20.5,,Low
+Countryside,949.0,1.0,2.0,Yes,6.0,14.0,No,Many,12.7,High,High
+Suburbs,1268.0,3.0,2.0,No,9.0,29.0,No,Many,,High,Low
+City Center,1400.0,2.0,1.0,No,,43.0,No,Many,10.6,,Medium
+Suburbs,740.0,3.0,1.0,,2.0,16.0,,Many,8.7,High,Medium
+City Center,1220.0,1.0,1.0,No,2.0,3.0,Yes,Many,29.9,Low,Low
+Countryside,1069.0,1.0,1.0,,17.0,6.0,Yes,Many,22.6,Low,Medium
+Suburbs,1643.0,2.0,,Yes,10.0,40.0,Yes,Few,19.5,Medium,Low
+Countryside,2126.0,,3.0,No,19.0,30.0,No,Few,11.0,Medium,Medium
+Suburbs,562.0,3.0,1.0,No,4.0,38.0,Yes,Few,2.0,High,Medium
+Countryside,1877.0,3.0,1.0,No,18.0,33.0,No,Few,1.4,,High
+City Center,1298.0,1.0,3.0,,18.0,,No,Few,16.8,Medium,Low
+City Center,999.0,2.0,1.0,No,14.0,,Yes,Few,23.0,Low,Medium
+City Center,1903.0,2.0,2.0,Yes,15.0,37.0,No,Few,16.4,Low,Low
+Suburbs,1541.0,2.0,1.0,Yes,8.0,44.0,Yes,Few,25.3,Medium,High
+City Center,1425.0,3.0,1.0,No,3.0,33.0,No,Few,1.5,,Low
+,1490.0,2.0,2.0,Yes,14.0,,No,Many,11.3,Medium,High
+City Center,1305.0,1.0,2.0,,11.0,14.0,Yes,Many,,Medium,Low
+City Center,335.0,1.0,2.0,No,2.0,13.0,No,,13.7,High,Low
+Suburbs,1043.0,3.0,2.0,Yes,,5.0,Yes,Many,2.6,High,High
+Suburbs,,4.0,1.0,No,16.0,49.0,No,Many,28.6,Medium,Medium
+City Center,652.0,3.0,,Yes,,36.0,Yes,Few,7.1,High,Medium
+Suburbs,2222.0,4.0,,Yes,,49.0,No,Few,27.7,Medium,Medium
+City Center,372.0,2.0,3.0,Yes,3.0,31.0,Yes,Few,13.1,Low,Low
+Suburbs,1676.0,,2.0,No,6.0,2.0,Yes,Many,29.6,Low,Low
+,2214.0,1.0,2.0,Yes,18.0,2.0,No,Many,16.8,,Medium
+Countryside,1393.0,2.0,3.0,Yes,16.0,21.0,Yes,Few,28.0,,Low
+Countryside,1007.0,,3.0,No,15.0,21.0,No,,0.7,Medium,Low
+Countryside,,2.0,1.0,No,14.0,9.0,No,Many,22.6,Low,Medium
+Countryside,1255.0,3.0,3.0,Yes,7.0,2.0,Yes,Many,27.1,Low,High
+City Center,459.0,4.0,1.0,No,18.0,11.0,Yes,Few,4.6,Low,Low
+Countryside,2496.0,2.0,3.0,Yes,7.0,28.0,Yes,Many,3.3,Low,Low
+Countryside,2035.0,4.0,3.0,Yes,17.0,47.0,Yes,Many,13.0,Medium,Low
+Countryside,1885.0,2.0,1.0,No,15.0,16.0,Yes,Many,28.0,Low,Low
+Countryside,366.0,1.0,3.0,No,19.0,6.0,No,,16.5,High,High
+Suburbs,357.0,1.0,1.0,No,18.0,12.0,Yes,,16.1,High,Medium
+City Center,641.0,2.0,3.0,Yes,9.0,1.0,No,Many,4.7,High,Low
+Countryside,1453.0,4.0,2.0,No,16.0,3.0,Yes,Many,0.5,High,Medium
+Countryside,1495.0,3.0,3.0,Yes,12.0,9.0,Yes,Few,24.4,High,Low
+Countryside,1532.0,3.0,1.0,No,12.0,38.0,Yes,Few,3.1,High,High
+City Center,1794.0,1.0,3.0,Yes,6.0,23.0,,,19.2,Medium,Medium
+Suburbs,2121.0,3.0,1.0,No,9.0,16.0,Yes,Few,,High,High
+City Center,415.0,1.0,,Yes,1.0,5.0,No,Many,,Low,Low
+Suburbs,961.0,3.0,2.0,No,3.0,18.0,No,Many,,High,High
+Countryside,1765.0,2.0,2.0,Yes,5.0,4.0,No,Many,2.8,Medium,High
+Countryside,2168.0,1.0,1.0,No,17.0,,Yes,Few,18.3,High,Low
+City Center,1316.0,1.0,3.0,No,5.0,9.0,No,Many,5.3,Low,Low
+City Center,610.0,2.0,1.0,Yes,,8.0,Yes,Many,22.2,Low,Medium
+Suburbs,,1.0,,No,13.0,26.0,No,Few,9.4,Medium,Low
+,932.0,,3.0,Yes,,12.0,Yes,Few,14.2,Medium,Medium
+,2402.0,3.0,3.0,Yes,18.0,,No,Many,18.2,Medium,High
+Suburbs,956.0,1.0,3.0,No,1.0,20.0,Yes,Few,,Medium,High
+City Center,1723.0,3.0,3.0,Yes,,23.0,Yes,Few,22.4,High,Medium
+Suburbs,2231.0,4.0,1.0,No,10.0,37.0,Yes,Many,9.4,,Low
+City Center,1979.0,1.0,1.0,No,5.0,3.0,No,Many,20.0,Low,Low
+City Center,536.0,2.0,2.0,Yes,13.0,23.0,No,Many,,Medium,High
+City Center,647.0,4.0,1.0,No,18.0,34.0,Yes,,20.8,Medium,Medium
+,929.0,1.0,3.0,Yes,15.0,2.0,No,Few,4.3,High,High
+Suburbs,1840.0,,2.0,Yes,6.0,3.0,No,Few,13.0,Medium,High
+Suburbs,,3.0,,No,7.0,36.0,No,Many,7.8,Low,Low
+City Center,1571.0,2.0,1.0,No,18.0,39.0,,Few,22.6,,Medium
+Suburbs,663.0,4.0,2.0,Yes,19.0,47.0,No,Few,8.2,Medium,High
+Suburbs,585.0,3.0,3.0,Yes,15.0,34.0,No,Many,26.5,Low,Low
+City Center,448.0,1.0,2.0,,6.0,,No,Many,26.8,Low,High
+Countryside,1407.0,3.0,2.0,No,8.0,43.0,Yes,Many,6.3,High,High
+City Center,755.0,,1.0,No,12.0,24.0,Yes,Few,18.6,Low,Low
+Suburbs,2066.0,1.0,3.0,No,0.0,39.0,No,Many,3.1,Medium,Low
+City Center,1099.0,2.0,2.0,Yes,7.0,12.0,Yes,Few,12.1,Medium,Medium
+Countryside,1484.0,2.0,2.0,,3.0,3.0,Yes,Few,21.5,Low,High
+City Center,1312.0,2.0,3.0,Yes,2.0,,Yes,Many,20.0,Medium,Medium
+Suburbs,1823.0,4.0,2.0,Yes,2.0,13.0,No,Many,18.9,High,Low
+,780.0,4.0,2.0,No,12.0,12.0,No,Many,8.8,Low,Low
+Suburbs,,2.0,,Yes,7.0,26.0,No,Many,11.7,Low,High
+Countryside,2461.0,4.0,3.0,No,6.0,5.0,No,Many,3.5,Low,Medium
+Countryside,1901.0,3.0,3.0,,0.0,16.0,No,Few,21.7,,Medium
+City Center,640.0,3.0,3.0,No,15.0,35.0,Yes,Few,15.4,Medium,High
+City Center,2310.0,4.0,3.0,Yes,5.0,39.0,No,Few,21.4,Low,High
+,2166.0,,1.0,Yes,6.0,48.0,Yes,Many,7.8,Medium,Medium
+City Center,1134.0,3.0,2.0,No,11.0,34.0,No,Few,10.1,Medium,Low
+City Center,1503.0,1.0,3.0,No,8.0,16.0,Yes,Many,10.4,Low,Low
+Countryside,2025.0,3.0,2.0,Yes,10.0,,No,Many,1.3,Low,High
+City Center,1989.0,3.0,2.0,Yes,9.0,1.0,No,Few,10.6,Medium,Medium
+Countryside,610.0,4.0,1.0,No,0.0,12.0,No,Few,24.2,Low,Medium
+Countryside,561.0,3.0,3.0,Yes,,1.0,No,Many,27.0,Low,Medium
+Countryside,1742.0,4.0,3.0,No,3.0,27.0,No,Few,15.8,Low,Low
+Suburbs,705.0,,2.0,Yes,4.0,42.0,No,,13.9,Low,Low
+,2490.0,2.0,3.0,No,8.0,25.0,Yes,Few,1.4,Medium,Medium
+Suburbs,641.0,3.0,2.0,Yes,16.0,21.0,No,Few,26.4,Low,Medium
+Countryside,1639.0,1.0,2.0,No,2.0,46.0,Yes,Few,,High,High
+Suburbs,543.0,2.0,1.0,No,,42.0,No,Few,28.4,Low,High
+Suburbs,789.0,4.0,1.0,Yes,4.0,2.0,Yes,Few,,High,Medium
+City Center,311.0,4.0,1.0,No,15.0,,Yes,,10.6,Low,Medium
+Suburbs,860.0,1.0,2.0,Yes,2.0,11.0,Yes,Few,27.8,High,Low
+Suburbs,,4.0,3.0,No,19.0,23.0,Yes,Few,1.2,High,Medium
+,,3.0,1.0,No,14.0,4.0,Yes,Few,17.7,,High
+Countryside,1752.0,2.0,,No,2.0,19.0,Yes,Many,16.7,Low,Low
+Countryside,2126.0,4.0,1.0,Yes,,38.0,No,Many,7.0,,High
+Countryside,1993.0,4.0,,No,13.0,,Yes,Many,13.2,High,High
+Countryside,433.0,,2.0,Yes,15.0,12.0,,Many,,Medium,Low
+Countryside,1247.0,3.0,1.0,No,,40.0,No,,22.0,,High
+,372.0,4.0,1.0,Yes,19.0,44.0,Yes,,0.5,Low,Medium
+Countryside,698.0,1.0,2.0,Yes,17.0,11.0,Yes,,28.1,Medium,High
+,1728.0,4.0,3.0,Yes,17.0,12.0,No,Few,5.4,Medium,Low
+City Center,429.0,1.0,1.0,No,,9.0,Yes,,7.4,Low,Low
+Suburbs,2111.0,1.0,2.0,Yes,17.0,32.0,Yes,Many,8.3,High,Low
+Suburbs,2301.0,3.0,1.0,No,14.0,39.0,Yes,Few,,Low,High
+,565.0,4.0,2.0,Yes,14.0,15.0,,,4.1,Medium,Medium
+Countryside,1860.0,3.0,3.0,Yes,5.0,44.0,Yes,Many,29.6,High,Low
+Countryside,2285.0,1.0,3.0,Yes,14.0,34.0,Yes,Many,9.8,Medium,Medium
+Countryside,1092.0,2.0,2.0,Yes,,2.0,Yes,,3.9,High,Low
+,1612.0,4.0,2.0,No,3.0,4.0,No,Few,3.7,Medium,Medium
+Countryside,463.0,2.0,2.0,Yes,7.0,25.0,Yes,Many,,Low,Medium
+City Center,394.0,,3.0,Yes,14.0,10.0,No,Many,25.7,Medium,Medium
+Suburbs,2105.0,3.0,1.0,No,2.0,6.0,No,Many,,,Low
+Countryside,1433.0,3.0,3.0,Yes,14.0,9.0,No,Many,1.1,High,High
+City Center,1121.0,3.0,2.0,,,41.0,No,Few,7.1,Medium,High
+City Center,,3.0,2.0,Yes,,33.0,Yes,Many,2.2,Low,High
+Countryside,2260.0,3.0,3.0,Yes,,2.0,,Few,3.6,Low,Medium
+Suburbs,1348.0,2.0,,No,7.0,7.0,No,,13.2,Low,Low
+Suburbs,1976.0,3.0,3.0,No,19.0,30.0,No,,7.3,High,Medium
+Suburbs,1263.0,1.0,2.0,Yes,,10.0,No,Many,15.7,High,Low
+City Center,836.0,1.0,1.0,No,12.0,44.0,No,Few,8.0,Medium,Medium
+,1903.0,2.0,1.0,No,0.0,6.0,Yes,Few,,Medium,Low
+,2279.0,4.0,2.0,Yes,1.0,44.0,Yes,Many,27.2,Medium,Low
+City Center,427.0,1.0,3.0,No,14.0,1.0,No,Many,,High,Low
+Suburbs,,4.0,1.0,,11.0,5.0,Yes,Many,11.0,High,Medium
+Countryside,842.0,2.0,3.0,No,13.0,40.0,,Few,11.7,Medium,High
+City Center,1145.0,,2.0,No,1.0,31.0,,Many,12.6,High,Medium
+,1981.0,4.0,,No,17.0,,No,Few,,High,Medium
+,,4.0,1.0,Yes,6.0,33.0,,Few,13.8,Low,Low
+Countryside,689.0,4.0,3.0,No,5.0,49.0,Yes,Many,25.8,Low,Low
+,2184.0,2.0,3.0,,13.0,15.0,,Few,28.4,Medium,High
+Suburbs,342.0,1.0,2.0,Yes,7.0,24.0,Yes,Few,10.4,Medium,High
+Suburbs,553.0,3.0,,No,1.0,11.0,Yes,Few,,Low,Low
+Countryside,1383.0,4.0,2.0,Yes,16.0,6.0,Yes,Few,3.3,High,High
+City Center,,,1.0,No,4.0,,No,Many,6.4,Medium,High
+Countryside,2253.0,1.0,1.0,Yes,13.0,,Yes,Few,12.7,Medium,Low
+Suburbs,941.0,2.0,,Yes,19.0,44.0,No,Many,6.6,Medium,Medium
+City Center,989.0,1.0,,No,2.0,10.0,No,Few,26.4,High,High
+City Center,,,1.0,No,,5.0,No,Few,5.2,Low,Low
+Suburbs,2250.0,4.0,1.0,No,15.0,22.0,No,Many,13.9,Medium,High
+Suburbs,,4.0,1.0,No,17.0,26.0,No,Few,18.4,Low,High
+Suburbs,1786.0,3.0,1.0,Yes,,,Yes,Few,20.9,Low,Low
+Countryside,756.0,3.0,2.0,Yes,10.0,5.0,Yes,Few,11.8,High,High
+Countryside,1282.0,3.0,1.0,Yes,16.0,37.0,Yes,,,High,High
+City Center,2430.0,1.0,,No,15.0,1.0,,,,High,High
+Suburbs,1422.0,4.0,3.0,Yes,,,Yes,Few,13.5,High,Medium
+City Center,448.0,,3.0,No,3.0,19.0,No,Many,2.5,High,Medium
+,1652.0,3.0,1.0,Yes,6.0,24.0,No,Many,14.2,,High
+City Center,1479.0,2.0,3.0,No,,14.0,Yes,Many,24.7,Medium,Low
+City Center,,2.0,3.0,Yes,5.0,,Yes,Few,18.6,Low,High
+Suburbs,1182.0,3.0,3.0,Yes,16.0,28.0,Yes,,25.0,High,High
+City Center,699.0,4.0,1.0,No,,7.0,No,Few,15.1,,Medium
+Suburbs,908.0,3.0,1.0,Yes,4.0,36.0,No,Many,,Low,Medium
+Suburbs,2095.0,2.0,3.0,No,4.0,48.0,No,Few,0.9,High,Medium
+Countryside,1938.0,3.0,2.0,,19.0,32.0,Yes,Many,9.4,High,High
+,1875.0,2.0,3.0,Yes,15.0,21.0,Yes,Few,21.1,Medium,High
+Countryside,2448.0,2.0,1.0,No,18.0,49.0,Yes,Few,23.8,Low,Low
+Suburbs,,3.0,1.0,No,8.0,46.0,Yes,,9.2,High,High
+Suburbs,1703.0,1.0,1.0,Yes,4.0,4.0,No,Many,15.1,Low,High
+Suburbs,1119.0,3.0,3.0,,7.0,38.0,,Few,,Medium,Medium
+Countryside,1119.0,1.0,2.0,Yes,8.0,17.0,Yes,Many,12.6,High,Medium
+Countryside,719.0,2.0,1.0,Yes,4.0,37.0,Yes,Few,7.3,Low,Medium
+City Center,423.0,2.0,1.0,Yes,9.0,36.0,No,Few,4.5,Medium,Medium
+Countryside,721.0,1.0,3.0,Yes,1.0,29.0,No,Many,6.3,,Medium
+,1808.0,,2.0,No,8.0,30.0,Yes,,2.1,High,Low
+Countryside,1897.0,1.0,3.0,,10.0,9.0,No,Few,6.3,Low,Low
+Countryside,,1.0,1.0,No,3.0,14.0,No,Few,0.8,High,Low
+City Center,2344.0,2.0,2.0,,1.0,41.0,No,Few,19.0,High,Medium
+,2439.0,4.0,,Yes,5.0,47.0,No,Many,9.8,Low,Medium
+Suburbs,1849.0,1.0,,Yes,13.0,43.0,No,Many,29.2,,Medium
+Suburbs,2064.0,3.0,2.0,No,0.0,17.0,Yes,Few,6.2,Low,Low
+Countryside,2344.0,3.0,2.0,No,,22.0,Yes,Few,10.7,Medium,Medium
+Countryside,809.0,2.0,3.0,Yes,6.0,32.0,Yes,Many,11.1,,Low
+Suburbs,1506.0,4.0,,Yes,0.0,15.0,No,Few,0.7,Low,Medium
+Suburbs,685.0,,1.0,No,0.0,37.0,No,Many,25.3,Medium,High
+,1897.0,4.0,1.0,No,0.0,,No,Few,1.4,High,Low
+Suburbs,1041.0,,1.0,No,3.0,33.0,,Many,28.2,Low,High
+Suburbs,2211.0,1.0,,Yes,3.0,27.0,Yes,,26.8,High,Low
+Countryside,1746.0,1.0,2.0,Yes,17.0,1.0,Yes,Many,16.3,Low,Medium
+Suburbs,1200.0,1.0,3.0,Yes,10.0,29.0,Yes,Many,16.5,High,Medium
+City Center,2412.0,3.0,1.0,No,0.0,12.0,Yes,Few,19.8,Low,High
+Suburbs,2309.0,,3.0,No,,40.0,Yes,Few,11.9,High,Medium
+Countryside,541.0,,3.0,,8.0,15.0,Yes,Many,19.6,Low,Low
+Countryside,2320.0,4.0,2.0,Yes,3.0,4.0,No,Many,1.8,Low,Medium
+Suburbs,472.0,1.0,,No,5.0,27.0,No,Many,2.1,Medium,Medium
+Countryside,971.0,1.0,2.0,Yes,15.0,38.0,Yes,,14.0,High,Low
+City Center,463.0,,,No,1.0,,No,,16.7,Medium,High
+City Center,764.0,4.0,2.0,No,17.0,19.0,Yes,Many,26.7,High,High
+Suburbs,796.0,2.0,3.0,Yes,9.0,23.0,Yes,Many,3.6,Medium,Medium
+Suburbs,999.0,4.0,1.0,No,16.0,26.0,No,Many,24.8,Low,Low
+Suburbs,1002.0,,3.0,Yes,,29.0,Yes,Many,6.7,Medium,High
+Countryside,2240.0,1.0,3.0,No,17.0,44.0,Yes,Many,12.1,Medium,High
+City Center,2091.0,1.0,2.0,No,,26.0,Yes,Many,9.8,,Medium
+City Center,482.0,1.0,1.0,Yes,16.0,25.0,No,Many,12.3,Medium,Low
+Countryside,928.0,,,No,4.0,6.0,No,Few,4.9,Low,High
+City Center,2031.0,2.0,2.0,Yes,10.0,41.0,No,Many,15.4,High,Medium
+Suburbs,845.0,1.0,1.0,Yes,,46.0,No,Many,24.1,Medium,Medium
+Suburbs,1887.0,2.0,1.0,No,9.0,37.0,Yes,Many,13.5,Low,Medium
+Suburbs,923.0,1.0,3.0,Yes,16.0,4.0,No,Few,15.0,Low,Medium
+City Center,893.0,3.0,1.0,Yes,14.0,22.0,No,Few,25.5,,High
+Suburbs,1043.0,3.0,3.0,Yes,17.0,27.0,,Few,21.3,High,Low
+Countryside,2068.0,3.0,1.0,,18.0,33.0,Yes,Many,15.0,Medium,Medium
+Countryside,1759.0,3.0,,Yes,1.0,14.0,No,Many,8.1,Low,Medium
+City Center,2248.0,2.0,3.0,Yes,3.0,31.0,No,Many,26.6,High,High
+Countryside,2368.0,2.0,3.0,No,2.0,25.0,Yes,Few,17.5,Medium,Medium
+,404.0,4.0,1.0,,,47.0,Yes,Many,7.0,Low,Medium
+City Center,316.0,,1.0,No,17.0,30.0,Yes,Few,8.4,Medium,Low
+Suburbs,692.0,3.0,3.0,No,9.0,18.0,Yes,Few,,High,Medium
+Suburbs,724.0,2.0,1.0,Yes,6.0,8.0,No,Few,1.8,High,High
+Suburbs,2476.0,1.0,2.0,No,7.0,28.0,Yes,Few,29.8,High,Low
+City Center,871.0,1.0,1.0,No,,38.0,No,,4.3,High,High
+Countryside,2376.0,2.0,,Yes,0.0,3.0,No,Many,24.0,High,Low
+Suburbs,1420.0,3.0,2.0,Yes,3.0,2.0,No,Many,12.1,Medium,Low
+Suburbs,541.0,4.0,2.0,Yes,13.0,28.0,,Few,15.0,High,Medium
+City Center,1088.0,1.0,2.0,No,16.0,,No,Many,26.5,High,Medium
+Suburbs,1014.0,4.0,2.0,No,19.0,32.0,Yes,Many,12.7,Low,Medium
+City Center,1058.0,3.0,,Yes,17.0,37.0,No,Few,16.4,High,High
+Countryside,1075.0,3.0,2.0,Yes,10.0,10.0,No,Few,2.0,Low,Medium
+City Center,378.0,,1.0,No,13.0,26.0,No,Many,,Low,Medium
+City Center,1155.0,3.0,2.0,No,8.0,32.0,Yes,,7.7,Low,Low
+City Center,1739.0,1.0,3.0,No,14.0,20.0,,Many,20.6,Medium,Medium
+City Center,2434.0,4.0,2.0,No,11.0,38.0,No,,4.1,Medium,Medium
+,2448.0,3.0,3.0,Yes,9.0,30.0,Yes,Few,3.9,Low,Medium
+Countryside,1331.0,4.0,2.0,No,18.0,37.0,,Many,12.6,Medium,Medium
+Suburbs,1144.0,1.0,2.0,No,18.0,45.0,No,Few,19.6,High,Low
+Countryside,386.0,3.0,2.0,No,5.0,1.0,Yes,Few,21.5,,Medium
+Countryside,2390.0,1.0,3.0,No,19.0,26.0,No,Many,5.8,High,Low
+Suburbs,707.0,3.0,3.0,,,35.0,No,Many,,,High
+Countryside,1968.0,,2.0,Yes,,10.0,No,,28.2,Medium,Medium
+City Center,447.0,3.0,1.0,No,0.0,46.0,No,Few,8.2,Medium,Medium
+City Center,531.0,4.0,2.0,No,16.0,17.0,No,Few,25.7,Low,Medium
+Suburbs,2250.0,3.0,3.0,Yes,16.0,0.0,Yes,Few,26.0,Medium,Low
+Suburbs,665.0,1.0,2.0,Yes,14.0,34.0,Yes,Few,23.3,Medium,Medium
+Suburbs,1974.0,1.0,3.0,No,,34.0,Yes,Many,5.5,Medium,Medium
+,735.0,,3.0,No,,30.0,No,,24.7,High,High
+Countryside,698.0,4.0,3.0,Yes,2.0,27.0,No,Few,23.2,High,Low
+City Center,1534.0,2.0,2.0,Yes,,38.0,No,Many,,,Low
+Suburbs,1714.0,,3.0,Yes,,,Yes,Few,10.4,Low,High
+Countryside,862.0,2.0,3.0,Yes,,24.0,No,Few,8.2,Low,Low
+,1584.0,1.0,,Yes,8.0,42.0,No,Many,4.1,Low,Medium
+City Center,1072.0,4.0,3.0,Yes,9.0,37.0,No,Few,15.5,High,Medium
+,2337.0,2.0,2.0,No,1.0,19.0,Yes,Few,17.8,Medium,High
+City Center,1643.0,,3.0,Yes,0.0,,Yes,Few,11.1,Low,Low
+Countryside,2485.0,1.0,1.0,Yes,15.0,1.0,No,Few,14.5,Low,Low
+City Center,1873.0,3.0,1.0,Yes,17.0,17.0,No,Many,11.2,High,Low
+City Center,1291.0,1.0,,,16.0,,No,Few,,Low,High
+Suburbs,1546.0,4.0,1.0,No,5.0,9.0,,Many,27.1,Medium,Medium
+Suburbs,659.0,,2.0,No,13.0,4.0,Yes,Few,5.3,High,High
+Countryside,1220.0,1.0,1.0,Yes,14.0,8.0,Yes,,11.8,High,Medium
+,1262.0,1.0,3.0,No,13.0,1.0,No,Many,4.7,,High
+City Center,2127.0,1.0,3.0,,2.0,33.0,Yes,Many,18.9,Medium,Medium
+City Center,1913.0,4.0,2.0,No,18.0,37.0,,Few,22.0,Medium,Low
+Countryside,1940.0,2.0,3.0,No,11.0,30.0,No,Few,28.0,Low,Low
+Countryside,516.0,3.0,2.0,,1.0,9.0,Yes,Few,8.7,Medium,Low
+Suburbs,677.0,3.0,1.0,No,,49.0,No,Many,28.5,High,High
+,418.0,4.0,,,17.0,11.0,Yes,Few,2.4,Medium,High
+Suburbs,489.0,,2.0,Yes,0.0,35.0,No,Few,18.3,High,High
+City Center,669.0,1.0,2.0,Yes,19.0,20.0,No,Few,2.2,High,Low
+City Center,2101.0,2.0,3.0,Yes,5.0,48.0,Yes,Few,,Low,Medium
+Suburbs,2496.0,3.0,1.0,Yes,,46.0,,Many,16.1,Medium,Low
+City Center,951.0,,2.0,No,0.0,5.0,No,,20.2,Low,Low
+Suburbs,2182.0,1.0,1.0,Yes,18.0,,No,Few,25.0,Medium,Medium
+,1811.0,,2.0,Yes,0.0,48.0,No,Few,4.9,Medium,Medium
+Suburbs,1069.0,4.0,1.0,No,15.0,2.0,,Few,1.6,Medium,Medium
+Countryside,1080.0,2.0,3.0,No,11.0,9.0,No,Many,26.4,Medium,Medium
+City Center,2016.0,1.0,1.0,Yes,7.0,4.0,No,Few,9.8,Medium,Low
+Suburbs,1611.0,2.0,1.0,,15.0,45.0,No,Many,4.3,High,High
+City Center,,3.0,1.0,No,0.0,25.0,Yes,,14.3,High,Low
+Countryside,822.0,3.0,,No,3.0,20.0,Yes,Few,18.2,Medium,Medium
+Countryside,821.0,4.0,1.0,No,9.0,44.0,No,,1.4,High,High
+,1082.0,1.0,3.0,Yes,10.0,25.0,No,Few,8.6,Low,High
+,1235.0,1.0,2.0,No,16.0,37.0,Yes,,1.5,Low,Low
+City Center,1988.0,4.0,1.0,Yes,6.0,43.0,No,Many,12.9,Low,Low
+City Center,787.0,4.0,3.0,,11.0,25.0,Yes,Few,26.9,Medium,Low
+City Center,2150.0,1.0,1.0,No,6.0,7.0,Yes,,29.5,Medium,High
+,1145.0,2.0,1.0,No,11.0,4.0,Yes,Few,19.3,High,High
+Countryside,2471.0,2.0,2.0,No,14.0,14.0,No,Few,,High,High
+Suburbs,,4.0,1.0,Yes,1.0,15.0,No,Many,27.2,High,Medium
+Suburbs,2048.0,2.0,3.0,No,13.0,0.0,,Many,15.7,Low,Medium
+City Center,985.0,,3.0,No,12.0,15.0,Yes,Many,5.0,Low,Low
+Countryside,,3.0,,No,3.0,36.0,Yes,Many,27.7,Low,High
+Countryside,,3.0,1.0,No,13.0,,Yes,Few,22.8,Low,Low
+Countryside,1867.0,2.0,,No,13.0,46.0,No,Few,,High,High
+Suburbs,1545.0,4.0,1.0,Yes,15.0,30.0,Yes,Few,21.4,,Low
+Suburbs,338.0,4.0,1.0,No,6.0,12.0,Yes,Many,6.4,Medium,Medium
+Countryside,1079.0,,,No,,15.0,No,,6.7,Low,High
+Countryside,1556.0,4.0,2.0,No,1.0,42.0,Yes,Many,20.8,Medium,Medium
+Countryside,2496.0,4.0,1.0,Yes,9.0,20.0,Yes,Many,7.0,Medium,High
+Suburbs,2227.0,2.0,,No,17.0,1.0,No,Many,13.4,,Low
+Countryside,601.0,3.0,1.0,Yes,16.0,26.0,No,Few,23.6,Low,High
+Countryside,946.0,3.0,,,4.0,37.0,Yes,Many,23.6,High,Medium
+,962.0,,1.0,,11.0,25.0,No,Many,13.9,High,High
+,2059.0,4.0,3.0,No,5.0,37.0,Yes,Many,23.9,Medium,Low
+Suburbs,555.0,2.0,3.0,No,8.0,45.0,No,Many,25.2,High,High
+Countryside,897.0,3.0,1.0,Yes,,24.0,Yes,Many,19.8,High,Medium
+Countryside,961.0,,1.0,Yes,0.0,10.0,No,,7.2,Low,Low
+City Center,534.0,2.0,3.0,Yes,14.0,7.0,Yes,Many,8.6,Low,Medium
+Suburbs,1668.0,,2.0,Yes,5.0,7.0,No,Many,9.8,Medium,High
+City Center,1069.0,,,Yes,18.0,32.0,No,Many,3.9,Medium,Medium
+City Center,512.0,3.0,2.0,Yes,17.0,6.0,No,Many,8.6,Medium,High
+City Center,762.0,3.0,1.0,No,5.0,37.0,No,Many,6.7,Low,Low
+City Center,582.0,3.0,1.0,No,12.0,20.0,No,Many,13.9,,Medium
+Countryside,1786.0,4.0,1.0,Yes,0.0,7.0,No,,27.3,Low,Medium
+Countryside,1730.0,1.0,1.0,No,12.0,20.0,No,Few,3.6,Low,High
+City Center,387.0,3.0,2.0,No,6.0,,Yes,,21.7,High,Medium
+Suburbs,1367.0,,1.0,Yes,14.0,7.0,Yes,Many,20.8,High,Medium
+Suburbs,760.0,1.0,3.0,Yes,11.0,45.0,No,Many,3.3,Medium,Low
+,,,3.0,No,0.0,30.0,No,Few,27.7,High,High
+Suburbs,1676.0,1.0,2.0,Yes,14.0,49.0,Yes,,,High,High
+City Center,814.0,2.0,1.0,Yes,3.0,28.0,Yes,Few,11.2,,Low
+Countryside,1002.0,,3.0,No,12.0,,No,Many,22.8,High,Low
+Suburbs,,2.0,2.0,Yes,4.0,8.0,Yes,Many,,Medium,High
+City Center,2366.0,4.0,1.0,No,1.0,14.0,Yes,Many,21.0,Medium,Low
+,322.0,3.0,3.0,No,,29.0,No,Many,1.7,High,Low
+Suburbs,,3.0,,No,15.0,25.0,No,Few,25.3,High,Low
+,2130.0,3.0,2.0,No,5.0,9.0,No,Many,13.7,,High
+Countryside,2455.0,3.0,1.0,No,15.0,28.0,Yes,Few,,Medium,Low
+Countryside,1604.0,4.0,1.0,Yes,13.0,15.0,,Few,7.0,High,Medium
+City Center,1434.0,3.0,3.0,Yes,2.0,35.0,,Many,20.5,Low,Medium
+Countryside,2483.0,1.0,3.0,Yes,,,,Few,23.3,Medium,High
+City Center,661.0,3.0,3.0,Yes,2.0,44.0,No,Few,14.5,Medium,Low
+City Center,2476.0,,1.0,No,1.0,,Yes,Few,18.7,Medium,Medium
+City Center,2199.0,3.0,2.0,No,,21.0,Yes,Few,14.0,High,High
+Countryside,1584.0,1.0,2.0,Yes,8.0,6.0,Yes,Many,26.9,High,Medium
+City Center,814.0,4.0,1.0,No,8.0,22.0,Yes,Many,15.2,Medium,Low
+Suburbs,748.0,4.0,2.0,Yes,6.0,40.0,Yes,Few,25.3,High,High
+Countryside,2223.0,1.0,3.0,Yes,2.0,39.0,Yes,Many,,High,Medium
+Countryside,1806.0,1.0,2.0,Yes,17.0,28.0,,Few,12.6,Medium,High
+Countryside,1547.0,1.0,2.0,No,10.0,15.0,No,Many,7.3,High,Medium
+Countryside,2155.0,,2.0,No,6.0,37.0,No,,12.5,Low,Medium
+Suburbs,1173.0,1.0,3.0,No,8.0,,Yes,Many,24.9,High,Low
+Countryside,1728.0,4.0,1.0,No,,47.0,No,Many,7.2,,Low
+Countryside,,4.0,3.0,Yes,13.0,37.0,Yes,,16.0,Medium,Medium
+City Center,1222.0,3.0,1.0,No,19.0,30.0,No,Few,24.3,Medium,High
+Countryside,2459.0,3.0,1.0,No,5.0,13.0,,Many,10.9,Low,High
+Suburbs,1336.0,2.0,1.0,No,6.0,32.0,No,Few,19.4,High,Low
+Suburbs,1716.0,,2.0,Yes,9.0,8.0,Yes,Few,7.7,Low,Medium
+Suburbs,613.0,3.0,2.0,,6.0,,,Many,3.7,,Low
+Suburbs,,1.0,,No,1.0,,Yes,Few,23.9,,Medium
+Countryside,1337.0,1.0,1.0,,3.0,12.0,No,Many,3.4,High,Medium
+Countryside,1956.0,,2.0,No,16.0,,Yes,Few,8.5,Medium,Low
+Suburbs,,2.0,3.0,,,28.0,No,Few,25.7,Low,High
+Suburbs,1314.0,1.0,1.0,Yes,9.0,,No,Many,10.7,,Low
+,1393.0,3.0,3.0,No,18.0,,No,Many,,Medium,Medium
+Suburbs,1424.0,3.0,2.0,No,14.0,27.0,Yes,Many,29.4,Medium,Low
+City Center,,4.0,1.0,No,9.0,27.0,Yes,,8.4,Medium,High
+Suburbs,2479.0,2.0,3.0,Yes,,7.0,Yes,Few,1.7,Medium,High
+Suburbs,1704.0,4.0,3.0,Yes,11.0,22.0,Yes,Many,21.3,Medium,Medium
+City Center,1455.0,2.0,3.0,No,15.0,28.0,Yes,Few,13.8,Low,Low
+City Center,1343.0,,2.0,No,8.0,4.0,No,Few,3.5,Medium,High
+Countryside,2229.0,,2.0,No,14.0,41.0,Yes,Few,21.4,High,Low
+,1313.0,3.0,3.0,No,16.0,6.0,No,Few,1.4,Low,High
+City Center,526.0,3.0,3.0,No,13.0,,No,Few,26.2,Low,Medium
+City Center,2128.0,2.0,,Yes,17.0,35.0,Yes,Few,,,Medium
+Countryside,1792.0,,3.0,,1.0,40.0,No,,4.3,High,Low
+Suburbs,1121.0,2.0,,Yes,3.0,26.0,Yes,Few,5.7,Low,Medium
+City Center,2323.0,4.0,,No,17.0,45.0,Yes,Few,28.8,,High
+Countryside,1170.0,2.0,,Yes,6.0,1.0,Yes,Few,20.9,Low,Medium
+Suburbs,2385.0,1.0,3.0,Yes,12.0,24.0,No,Many,24.1,Low,High
+City Center,2095.0,4.0,3.0,Yes,14.0,8.0,Yes,Many,12.2,High,High
+Suburbs,487.0,4.0,,No,0.0,26.0,Yes,Few,10.4,Low,Medium
+Countryside,1380.0,2.0,3.0,,10.0,0.0,Yes,Many,7.4,Medium,High
+City Center,1240.0,1.0,2.0,Yes,9.0,22.0,No,,14.7,High,High
